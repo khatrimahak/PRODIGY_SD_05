@@ -18,17 +18,17 @@ headers = {
     'sec-fetch-site': 'cross-site',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
 }
+
+proxy = None # Add your proxies here 
 proxies = {
-    "http": "http://1cbb0b114c0bf2846e60__cr.gb:b2b1ac5af48c665c@gw.dataimpulse.com:823",
-    "https": "https://1cbb0b114c0bf2846e60__cr.gb:b2b1ac5af48c665c@gw.dataimpulse.com:823",
+    "http": f"http://{proxy}",
+    "https": "https://{proxy}",
 }
 
 images = set()
-# ,pdp_specifications,pdp_images,pdp_pdfs,availabilitycollect,availabilitydelivered,availabilitypremiumdelivery,BADGES,brandlogo,fgascompliant,marketing_symbols,tradeonly,upsells,producttext,buyable,pdp_image_large,bymodelnumber,brand,replacements,shortdescription,deliverymax,deliverymin,mfpartnumber,whatisincluded
 # Function to fetch data from website
 def fetch(query,start):
-    response = requests.get(f'https://core.dxpapi.com/api/v1/core/?&account_id=6722&domain_key=wolseley&request_id=1205668975672&_br_uid_2=uid%3D2142697168097:v%3D15.0:ts%3D1731592176287:hc%3D10&ref_url=www.wolseley.co.uk%2Foffers-promotions%2Ftrade-deals%2F%3Fpage%3D1&url=www.wolseley.co.uk%2Foffers-promotions%2Ftrade-deals%2F%3Fpage%3D1&request_type=search&search_type=category&q={query}&fl=pid,title,description,price,url,brand,thumb_image,pdp_specifications,pdp_pdfs,mfpartnumber,whatisincluded,auxdescription1&rows=200&start={start}', headers=headers)    
-    
+    response = requests.get(f'https://core.dxpapi.com/api/v1/core/?&account_id=6722&domain_key=wolseley&request_id=1205668975672&_br_uid_2=uid%3D2142697168097:v%3D15.0:ts%3D1731592176287:hc%3D10&ref_url=www.wolseley.co.uk%2Foffers-promotions%2Ftrade-deals%2F%3Fpage%3D1&url=www.wolseley.co.uk%2Foffers-promotions%2Ftrade-deals%2F%3Fpage%3D1&request_type=search&search_type=category&q={query}&fl=pid,title,description,price,url,brand,thumb_image,pdp_specifications,pdp_pdfs,mfpartnumber,whatisincluded,auxdescription1&rows=200&start={start}', headers=headers)        
     return response
 
 
