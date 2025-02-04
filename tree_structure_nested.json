@@ -1,0 +1,3568 @@
+{
+    "Offers and promotions": {
+        "category_Id": "W1-offers-promotions",
+        "sub_categories": {
+            "PlumbPro Cashback Offers": {
+                "category_Id": "W1-plumbpro-cashback-offers",
+                "sub_categories": {}
+            },
+            "Trade Deals": {
+                "category_Id": "W1-trade-deals",
+                "sub_categories": {}
+            },
+            "The Big Deal": {
+                "category_Id": "W1-the-big-deal",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Boilers": {
+        "category_Id": "W1-boilers",
+        "sub_categories": {
+            "Boiler Packs": {
+                "category_Id": "W1-boiler-packs",
+                "sub_categories": {
+                    "Worcester Boilers": {
+                        "category_Id": "W1-worcester-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Ideal Boiler Packs": {
+                        "category_Id": "W1-ideal-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Baxi Boiler Packs": {
+                        "category_Id": "W1-baxi-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Vaillant Boilers": {
+                        "category_Id": "W1-vaillant-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Vokera Boilers": {
+                        "category_Id": "W1-vokera-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Alpha Boilers": {
+                        "category_Id": "W1-alpha-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Glow-worm Boilers": {
+                        "category_Id": "W1-glow-worm-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Intergas Boilers": {
+                        "category_Id": "W1-intergas-boiler-pack",
+                        "sub_categories": {}
+                    },
+                    "Viessmann Boiler Packs": {
+                        "category_Id": "W1-viessmann-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Grant Boiler Packs": {
+                        "category_Id": "W1-grant-boiler-packs",
+                        "sub_categories": {}
+                    },
+                    "Atag and Heatrae Sadia Boilers": {
+                        "category_Id": "W1-other-branded-boiler-packs",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Gas Boilers": {
+                "category_Id": "W1-gas-boilers",
+                "sub_categories": {
+                    "Gas Combi Boilers ": {
+                        "category_Id": "W1-gas-combi-boilers",
+                        "sub_categories": {}
+                    },
+                    "Gas System Boilers": {
+                        "category_Id": "W1-gas-system-boilers",
+                        "sub_categories": {}
+                    },
+                    "Gas Heat Only Boilers": {
+                        "category_Id": "W1-gas-heat-only-boilers",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Oil Boilers": {
+                "category_Id": "W1-oil-boilers",
+                "sub_categories": {
+                    "Oil Combi Boilers": {
+                        "category_Id": "W1-oil-combi-boilers",
+                        "sub_categories": {}
+                    },
+                    "Oil System Boilers": {
+                        "category_Id": "W1-oil-system-boilers",
+                        "sub_categories": {}
+                    },
+                    "Oil Heat Only Boilers": {
+                        "category_Id": "W1-oil-heat-only-boilers",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "LPG Boilers": {
+                "category_Id": "W1-lpg-boilers",
+                "sub_categories": {
+                    " LPG Combi Boilers": {
+                        "category_Id": "W1-lpg-combi-boilers",
+                        "sub_categories": {}
+                    },
+                    "LPG System Boilers": {
+                        "category_Id": "W1-lpg-system-boilers",
+                        "sub_categories": {}
+                    },
+                    "LPG Heat Only Boilers": {
+                        "category_Id": "W1-lpg-heat-only-boilers",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Electric Boilers": {
+                "category_Id": "W1-electric-boilers",
+                "sub_categories": {}
+            },
+            "Domestic Boiler Flues & Accessories": {
+                "category_Id": "W1-boiler-flues-accessories",
+                "sub_categories": {
+                    "Alpha Flues": {
+                        "category_Id": "W1-alpha-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Baxi Flues": {
+                        "category_Id": "W1-baxi-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Firebird Flues": {
+                        "category_Id": "W1-firebird-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Glow-worm Flues": {
+                        "category_Id": "W1-glow-worm-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Grant Flues": {
+                        "category_Id": "W1-grant-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Ideal Flues": {
+                        "category_Id": "W1-ideal-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Potterton Flues": {
+                        "category_Id": "W1-potterton-flues-acessories",
+                        "sub_categories": {}
+                    },
+                    "Vaillant Flues": {
+                        "category_Id": "W1-vaillant-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Vokera Flues": {
+                        "category_Id": "W1-vokera-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Worcester Flues": {
+                        "category_Id": "W1-worcester-flues-accessories",
+                        "sub_categories": {}
+                    },
+                    "Other Boiler Flues": {
+                        "category_Id": "W1-other-brands-flues-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Commercial & Industrial Boilers": {
+                "category_Id": "W1-commercial-industrial-boilers",
+                "sub_categories": {
+                    "High Efficiency Boilers": {
+                        "category_Id": "W1-high-efficiency-boilers",
+                        "sub_categories": {}
+                    },
+                    "Commercial Boiler Flues & Accessories": {
+                        "category_Id": "W1-commercial-boiler-flues-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Heat Interface Units (HIUs)": {
+                "category_Id": "W1-heat-interface-units",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Parts and Spares": {
+        "category_Id": "W1-parts-spares",
+        "sub_categories": {
+            "Domestic Boiler Parts": {
+                "category_Id": "W1-domestic-boiler-parts-accessories",
+                "sub_categories": {
+                    "Worcester Boiler Parts": {
+                        "category_Id": "W1-worcester-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Vaillant Boiler Parts": {
+                        "category_Id": "W1-vaillant-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Baxi Boiler Parts": {
+                        "category_Id": "W1-baxi-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Ideal Boiler Parts": {
+                        "category_Id": "W1-ideal-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Vokera Boiler Parts": {
+                        "category_Id": "W1-vokera-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Alpha Boiler Parts": {
+                        "category_Id": "W1-alpha-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Glow Worm Boiler Parts": {
+                        "category_Id": "W1-glow-worm-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Potterton Boiler Parts": {
+                        "category_Id": "W1-potterton-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Oil Parts": {
+                        "category_Id": "W1-oil-parts",
+                        "sub_categories": {}
+                    },
+                    "Other Brands Boiler Parts": {
+                        "category_Id": "W1-other-brands",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Metering": {
+                "category_Id": "W1-metering",
+                "sub_categories": {}
+            },
+            "Boiler Spares Service Kits": {
+                "category_Id": "W1-boiler-spares-service-kits",
+                "sub_categories": {}
+            },
+            "Commercial and Industrial Boiler Parts": {
+                "category_Id": "W1-commercial-boiler-parts-accessories",
+                "sub_categories": {
+                    "Andrews Boiler Parts": {
+                        "category_Id": "W1-andrews-commercial-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Broag Commercial Boiler Parts": {
+                        "category_Id": "W1-broag-commerical-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Hamworthy Commercial Boiler Parts": {
+                        "category_Id": "W1-hamworthy-commerical-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Ideal Commercial Boiler Parts": {
+                        "category_Id": "W1-ideal-commerical-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Keston Commercial Boiler Parts": {
+                        "category_Id": "W1-keston-commerical-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Potterton Commercial Boiler Parts": {
+                        "category_Id": "W1-potterton-commerical-boiler-parts",
+                        "sub_categories": {}
+                    },
+                    "Other Brands Commercial Boiler Parts": {
+                        "category_Id": "W1-all-other-brands-commerical-boiler-parts",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Heating Replacement Parts": {
+                "category_Id": "W1-heating-parts",
+                "sub_categories": {
+                    "Cylinder Parts and Accessories": {
+                        "category_Id": "W1-cylinder-accessories",
+                        "sub_categories": {}
+                    },
+                    "Water Heater Parts and Accessories": {
+                        "category_Id": "W1-water-heater-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Burner Parts and Accessories": {
+                        "category_Id": "W1-burner-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Gas & Electric Fire Replacement Parts": {
+                        "category_Id": "W1-fire-parts-accessories",
+                        "sub_categories": {
+                            "Ceramic Gas Fire Coals": {
+                                "category_Id": "W1-coal-coal-beds",
+                                "sub_categories": {}
+                            },
+                            "Control Knobs": {
+                                "category_Id": "W1-control-knobs",
+                                "sub_categories": {}
+                            },
+                            "Gas Taps": {
+                                "category_Id": "W1-gas-taps",
+                                "sub_categories": {}
+                            },
+                            "Fire Spares": {
+                                "category_Id": "W1-other-fire-parts-accessories",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Air Heater Parts & Accessories": {
+                        "category_Id": "W1-air-heater-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Central Heating Parts & Accessories": {
+                        "category_Id": "W1-sealed-systems-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Pump Parts and Accessories": {
+                        "category_Id": "W1-pump-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Underfloor Heating Parts and Accessories": {
+                        "category_Id": "W1-underfloor-heating-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Plumbing Parts and Spares": {
+                "category_Id": "W1-plumbing-parts",
+                "sub_categories": {
+                    "Toilet Spares and Parts": {
+                        "category_Id": "W1-toilet-accessories",
+                        "sub_categories": {
+                            "Toilet Cistern Parts": {
+                                "category_Id": "W1-toilet-cistern-parts",
+                                "sub_categories": {}
+                            },
+                            "Toilet Flush Parts": {
+                                "category_Id": "W1-toilet-flush-parts",
+                                "sub_categories": {}
+                            },
+                            "Toilet Seat Parts": {
+                                "category_Id": "W1-toilet-seat-parts",
+                                "sub_categories": {}
+                            },
+                            "Toilet Pan Parts": {
+                                "category_Id": "W1-toilet-pan-parts",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Tap Spares & Parts": {
+                        "category_Id": "W1-bathroom-tap-parts",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Basin Parts": {
+                        "category_Id": "W1-bathroom-basin-parts",
+                        "sub_categories": {}
+                    },
+                    "Shower Parts": {
+                        "category_Id": "W1-shower-parts",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Plumbing Parts": {
+                        "category_Id": "W1-kitchen-plumbing-parts",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Cooling Parts": {
+                "category_Id": "W1-cooling-parts",
+                "sub_categories": {
+                    "Air Conditioning Parts": {
+                        "category_Id": "W1-ac-parts-accessories",
+                        "sub_categories": {
+                            "Daikin Air Conditioning Spare Parts": {
+                                "category_Id": "W1-daikin-ac-parts",
+                                "sub_categories": {}
+                            },
+                            "Fujitsu Air Conditioning Spares": {
+                                "category_Id": "W1-fujitsu-ac-parts",
+                                "sub_categories": {}
+                            },
+                            "Toshiba Air Conditioning Parts ": {
+                                "category_Id": "W1-toshiba-ac-parts",
+                                "sub_categories": {}
+                            },
+                            "Pump House Air Con Parts": {
+                                "category_Id": "W1-pump-house-ac-parts",
+                                "sub_categories": {}
+                            },
+                            "HVAC Service Equipment": {
+                                "category_Id": "W1-service-equipment",
+                                "sub_categories": {
+                                    "Recovery Equipment": {
+                                        "category_Id": "W1-recovery-equipment",
+                                        "sub_categories": {}
+                                    },
+                                    "Refrigerant Hoses and Gauges": {
+                                        "category_Id": "W1-refrigerant-hoses-gauges",
+                                        "sub_categories": {}
+                                    },
+                                    "Manifolds": {
+                                        "category_Id": "W1-se-manifolds",
+                                        "sub_categories": {}
+                                    },
+                                    "Vacuum Pumps": {
+                                        "category_Id": "W1-vacuum-pumps",
+                                        "sub_categories": {}
+                                    },
+                                    "Nitrogen Regulators": {
+                                        "category_Id": "W1-nitrogen-regulators",
+                                        "sub_categories": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Refrigeration Parts and Accessories": {
+                        "category_Id": "W1-refrigeration-part-accessories",
+                        "sub_categories": {
+                            "Refrigeration Ball Valves": {
+                                "category_Id": "W1-refrigeration-ball-valves",
+                                "sub_categories": {}
+                            },
+                            "Driers": {
+                                "category_Id": "W1-driers",
+                                "sub_categories": {}
+                            },
+                            "Heat Exchanger Spare Parts": {
+                                "category_Id": "W1-heat-exchanger-spare-parts",
+                                "sub_categories": {}
+                            },
+                            "Sight Glasses": {
+                                "category_Id": "W1-sight-glasses",
+                                "sub_categories": {}
+                            },
+                            "HVAC Service Equipment": {
+                                "category_Id": "W1-service-equipment",
+                                "sub_categories": {
+                                    "Recovery Equipment": {
+                                        "category_Id": "W1-recovery-equipment",
+                                        "sub_categories": {}
+                                    },
+                                    "Refrigerant Hoses and Gauges": {
+                                        "category_Id": "W1-refrigerant-hoses-gauges",
+                                        "sub_categories": {}
+                                    },
+                                    "Manifolds": {
+                                        "category_Id": "W1-se-manifolds",
+                                        "sub_categories": {}
+                                    },
+                                    "Vacuum Pumps": {
+                                        "category_Id": "W1-vacuum-pumps",
+                                        "sub_categories": {}
+                                    },
+                                    "Nitrogen Regulators": {
+                                        "category_Id": "W1-nitrogen-regulators",
+                                        "sub_categories": {}
+                                    }
+                                }
+                            },
+                            "Accessories": {
+                                "category_Id": "W1-installation-accessories",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Air Compressor Parts & Accessories": {
+                        "category_Id": "W1-compressor-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Accessories": {
+                        "category_Id": "W1-installation-accessories",
+                        "sub_categories": {}
+                    },
+                    "Condensate Pump Parts & Accessories": {
+                        "category_Id": "W1-condensate-pump-parts-acccessories",
+                        "sub_categories": {}
+                    },
+                    "Condensing Units Parts and Accessories": {
+                        "category_Id": "W1-condensing-units-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Electrical Cooling Components & Accessories": {
+                        "category_Id": "W1-electrical-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Evaporator Parts & Accessories": {
+                        "category_Id": "W1-evaporators-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Commercial Bakery Parts": {
+                "category_Id": "W1-commercial-bakery-parts",
+                "sub_categories": {
+                    "Oven Parts": {
+                        "category_Id": "W1-cbp-oven-parts",
+                        "sub_categories": {}
+                    },
+                    "Packaging Machine Parts": {
+                        "category_Id": "W1-cbp-packaging-machine-parts",
+                        "sub_categories": {}
+                    },
+                    "Oven Bearings": {
+                        "category_Id": "W1-cbp-bearings-vbelts",
+                        "sub_categories": {}
+                    },
+                    "Appliances": {
+                        "category_Id": "W1-cbp-appliances",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Commercial Catering Parts": {
+                "category_Id": "W1-commercial-catering-parts",
+                "sub_categories": {
+                    "Oven Parts": {
+                        "category_Id": "W1-ccp-oven-combi-oven-parts",
+                        "sub_categories": {}
+                    },
+                    "Warewash Equipment Parts": {
+                        "category_Id": "W1-ccp-warewash-equipment-parts",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Parts": {
+                        "category_Id": "W1-ccp-refrigeration-parts",
+                        "sub_categories": {}
+                    },
+                    "Plumbing Products": {
+                        "category_Id": "W1-ccp-plumbing-products",
+                        "sub_categories": {}
+                    },
+                    "Fly Killer Parts": {
+                        "category_Id": "W1-ccp-fly-killer-parts",
+                        "sub_categories": {}
+                    },
+                    "Gas Controls and Accessories": {
+                        "category_Id": "W1-ccp-gas-controls-related-products",
+                        "sub_categories": {}
+                    },
+                    "Counters, Hot Cupboards and Servery Parts": {
+                        "category_Id": "W1-ccp-counters-hot-cupboards-servery-parts",
+                        "sub_categories": {}
+                    },
+                    "Food Prep Cooking Parts": {
+                        "category_Id": "W1-ccp-food-prep-cooking-parts",
+                        "sub_categories": {}
+                    },
+                    "Lamps, Fittings and Controllers": {
+                        "category_Id": "W1-ccp-lamps-fittings-controllers",
+                        "sub_categories": {}
+                    },
+                    "Fryer and Grill Griddle Parts": {
+                        "category_Id": "W1-ccp-fryer-grill-griddle-parts",
+                        "sub_categories": {}
+                    },
+                    "Water Softeners": {
+                        "category_Id": "W1-ccp-water-softeners",
+                        "sub_categories": {}
+                    },
+                    "Bearings and V-belts": {
+                        "category_Id": "W1-ccp-bearings-vbelts",
+                        "sub_categories": {}
+                    },
+                    "Electric Controls": {
+                        "category_Id": "W1-ccp-electric-controls",
+                        "sub_categories": {}
+                    },
+                    "Drinks Equipment Parts": {
+                        "category_Id": "W1-drinks-equipment-parts",
+                        "sub_categories": {}
+                    }
+                }
+            }
+        }
+    },
+    "Radiators": {
+        "category_Id": "W1-radiators",
+        "sub_categories": {
+            "Central Heating Radiators": {
+                "category_Id": "W1-central-heating-radiators",
+                "sub_categories": {
+                    "Panel Radiators": {
+                        "category_Id": "W1-compact-radiators",
+                        "sub_categories": {
+                            "Single panel single convector K1 radiators (Type 11)": {
+                                "category_Id": "W1-single-panel-single-convector-K1",
+                                "sub_categories": {}
+                            },
+                            "Double panel double convector K2 radiators (Type 22)": {
+                                "category_Id": "W1-double-panel-double-convector-K2",
+                                "sub_categories": {}
+                            },
+                            "Triple panel triple convector K3 radiators (Type 33)": {
+                                "category_Id": "W1-triple-panel-triple-convector-K3",
+                                "sub_categories": {}
+                            },
+                            "Double panel single convector p plus radiators (Type 21)": {
+                                "category_Id": "W1-double-panel-single-convector-p-plus",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Column Radiators": {
+                        "category_Id": "W1-column-radiators",
+                        "sub_categories": {}
+                    },
+                    "Flat Panel Radiators ": {
+                        "category_Id": "W1-flat-fronted",
+                        "sub_categories": {}
+                    },
+                    "Cast Iron Radiators": {
+                        "category_Id": "W1-cast-iron-radiators",
+                        "sub_categories": {}
+                    },
+                    "Designer Radiators": {
+                        "category_Id": "W1-decorative-radiators",
+                        "sub_categories": {}
+                    },
+                    "Aluminium Radiators": {
+                        "category_Id": "W1-aluminium-radiators",
+                        "sub_categories": {}
+                    },
+                    "Electric Heating": {
+                        "category_Id": "W1-electrical-heating",
+                        "sub_categories": {
+                            "Panel Heaters": {
+                                "category_Id": "W1-panel-heaters",
+                                "sub_categories": {}
+                            },
+                            "Storage Heaters": {
+                                "category_Id": "W1-storage-heaters",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "LST Radiators": {
+                        "category_Id": "W1-commercial-radiators",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Heated Towel Rails": {
+                "category_Id": "W1-towel-radiators",
+                "sub_categories": {
+                    "Contemporary Towel Warmers": {
+                        "category_Id": "W1-towel-warmers-contemporary",
+                        "sub_categories": {}
+                    },
+                    "Traditional Towel Radiator": {
+                        "category_Id": "W1-towel-warmers-traditional",
+                        "sub_categories": {}
+                    },
+                    "Ladder Towel Rails": {
+                        "category_Id": "W1-towel-warmers-ladder-rail",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Radiator Valves": {
+                "category_Id": "W1-radiator-valves",
+                "sub_categories": {
+                    "Thermostatic Radiator Valves": {
+                        "category_Id": "W1-radiator-valves-thermostatic",
+                        "sub_categories": {}
+                    },
+                    "Manual Radiator Valves": {
+                        "category_Id": "W1-radiator-valves-manual",
+                        "sub_categories": {}
+                    },
+                    "Commercial Radiator Valves": {
+                        "category_Id": "W1-radiator-valves-commercial",
+                        "sub_categories": {}
+                    },
+                    "Decorative Radiator Valves": {
+                        "category_Id": "W1-radiator-valves-decorative",
+                        "sub_categories": {}
+                    },
+                    "Smart Radiator Valves": {
+                        "category_Id": "W1-radiator-valves-smart",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Radiator Brackets, Parts and Fittings": {
+                "category_Id": "W1-brackets-accessories",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Water Heating and Storage": {
+        "category_Id": "W1-water-heating-and-storage",
+        "sub_categories": {
+            "Hot Water Cylinders": {
+                "category_Id": "W1-cylinders",
+                "sub_categories": {
+                    "Vented Hot Water Cylinders": {
+                        "category_Id": "W1-cylinders-vented",
+                        "sub_categories": {}
+                    },
+                    "Cylinder Parts and Accessories": {
+                        "category_Id": "W1-cylinder-accessories",
+                        "sub_categories": {}
+                    },
+                    "Unvented Cylinders": {
+                        "category_Id": "W1-cylinders-unvented",
+                        "sub_categories": {}
+                    },
+                    "Immersion Heaters": {
+                        "category_Id": "W1-immersion-heaters",
+                        "sub_categories": {}
+                    },
+                    "Cylinder Thermostats and Controls": {
+                        "category_Id": "W1-cylinder-thermostats-and-controls",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Water Heaters": {
+                "category_Id": "W1-water-heaters",
+                "sub_categories": {
+                    "Instant Water Heaters": {
+                        "category_Id": "W1-instantaneous-water-heaters",
+                        "sub_categories": {
+                            "Electric Water Heaters": {
+                                "category_Id": "W1-electric-water-heaters",
+                                "sub_categories": {}
+                            },
+                            "Gas Water Heaters": {
+                                "category_Id": "W1-gas-water-heaters",
+                                "sub_categories": {}
+                            },
+                            "Hand Wash Water Heaters": {
+                                "category_Id": "W1-Handwash-water-heaters",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Point Of Use Water Heaters": {
+                        "category_Id": "W1-electric-water-storage-heating",
+                        "sub_categories": {
+                            "Undersink Water Heaters": {
+                                "category_Id": "W1-undersink-water-heaters",
+                                "sub_categories": {}
+                            },
+                            "Oversink Water Heaters": {
+                                "category_Id": "W1-oversink-water-heaters",
+                                "sub_categories": {}
+                            },
+                            "Wall Hung Water Heaters": {
+                                "category_Id": "W1-wall-hung-water-heaters",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Water Boilers": {
+                        "category_Id": "W1-boiling-water",
+                        "sub_categories": {
+                            "Hot Water Dispensers": {
+                                "category_Id": "W1-water-boiling-units",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Commercial Water Heaters": {
+                        "category_Id": "W1-commercial-water-heaters",
+                        "sub_categories": {}
+                    },
+                    "Kits and Accessories": {
+                        "category_Id": "W1-kits-and-accessories",
+                        "sub_categories": {}
+                    },
+                    "Vented Water Heaters": {
+                        "category_Id": "W1-vented-water-heaters",
+                        "sub_categories": {}
+                    },
+                    "Unvented Water Heaters": {
+                        "category_Id": "W1-unvented-water-heaters",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Cold Water Tank Supplies & Accessories": {
+                "category_Id": "W1-plastic-tanks",
+                "sub_categories": {
+                    "Plastic Cold Water Tank Lids and Covers": {
+                        "category_Id": "W1-plastic-tanks-lids",
+                        "sub_categories": {}
+                    },
+                    "Byelaw Kits": {
+                        "category_Id": "W1-byelaw-kits-jackets",
+                        "sub_categories": {}
+                    },
+                    "Float Valves": {
+                        "category_Id": "W1-float-valves",
+                        "sub_categories": {}
+                    }
+                }
+            }
+        }
+    },
+    "Heating": {
+        "category_Id": "W1-heating",
+        "sub_categories": {
+            "Central Heating Controls": {
+                "category_Id": "W1-controls-valves2",
+                "sub_categories": {
+                    "Wireless Thermostats": {
+                        "category_Id": "W1-wireless-thermostats",
+                        "sub_categories": {}
+                    },
+                    "Smart Thermostats": {
+                        "category_Id": "W1-smart-home-controls2",
+                        "sub_categories": {}
+                    },
+                    "Wired Thermostats": {
+                        "category_Id": "W1-wired-thermostats3",
+                        "sub_categories": {}
+                    },
+                    "Central Heating Valves": {
+                        "category_Id": "W1-central-heating-valves",
+                        "sub_categories": {}
+                    },
+                    "Commercial Heating Controls": {
+                        "category_Id": "W1-commercial-controls",
+                        "sub_categories": {}
+                    },
+                    "Commercial Heating Control Valves": {
+                        "category_Id": "W1-commercial-valves",
+                        "sub_categories": {}
+                    },
+                    "Actuator Valves": {
+                        "category_Id": "W1-actuators-valves",
+                        "sub_categories": {}
+                    },
+                    "Gas Safety Controls": {
+                        "category_Id": "W1-gas-safety-controls",
+                        "sub_categories": {
+                            "Gas Proving Systems & Units": {
+                                "category_Id": "W1-gas-interlock-proving-systems",
+                                "sub_categories": {}
+                            },
+                            "Interlocks": {
+                                "category_Id": "W1-interlocks",
+                                "sub_categories": {}
+                            },
+                            "Gas Regulators": {
+                                "category_Id": "W1-gas-regulators",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Central Heating Sensors": {
+                        "category_Id": "W1-sensors",
+                        "sub_categories": {}
+                    },
+                    "Controls and Valves Accessories": {
+                        "category_Id": "W1-controls-valves-accessories2",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Central Heating Pumps": {
+                "category_Id": "W1-pumps",
+                "sub_categories": {
+                    "Circulation Pumps": {
+                        "category_Id": "W1-domestic-circulating-pumps",
+                        "sub_categories": {}
+                    },
+                    "Hot Water Pump": {
+                        "category_Id": "W1-hot-water-pumps-circulators",
+                        "sub_categories": {}
+                    },
+                    "Condensate Pumps": {
+                        "category_Id": "W1-condensate-pumps2",
+                        "sub_categories": {}
+                    },
+                    "Commercial Circulating Pumps": {
+                        "category_Id": "W1-light-commercial-circulators",
+                        "sub_categories": {}
+                    },
+                    "Commercial Heating Pumps": {
+                        "category_Id": "W1-commercial-pumps",
+                        "sub_categories": {}
+                    },
+                    "Booster Pumps": {
+                        "category_Id": "W1-booster-pump-sets",
+                        "sub_categories": {}
+                    },
+                    "Submersible Pumps": {
+                        "category_Id": "W1-immersible-pumps",
+                        "sub_categories": {}
+                    },
+                    "Pump Parts and Accessories": {
+                        "category_Id": "W1-pump-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Water Treatment Products": {
+                "category_Id": "W1-water-treatment",
+                "sub_categories": {
+                    "Central Heating Cleaner": {
+                        "category_Id": "W1-water-treatment-cleaners",
+                        "sub_categories": {}
+                    },
+                    "Central Heating Disinfectant": {
+                        "category_Id": "W1-water-treament-disinfectant",
+                        "sub_categories": {}
+                    },
+                    "Central Heating Inhibitors": {
+                        "category_Id": "W1-water-treatment-inhibitors",
+                        "sub_categories": {}
+                    },
+                    "Central Heating Filters": {
+                        "category_Id": "W1-water-treatment-filters",
+                        "sub_categories": {}
+                    },
+                    "Leak Sealer": {
+                        "category_Id": "W1-leak-sealers",
+                        "sub_categories": {}
+                    },
+                    "Boiler Silencers": {
+                        "category_Id": "W1-water-treatment-silencers",
+                        "sub_categories": {}
+                    },
+                    "Power Flush Machines": {
+                        "category_Id": "W1-power-flushing",
+                        "sub_categories": {}
+                    },
+                    "Water Softener Systems": {
+                        "category_Id": "W1-water-softeners",
+                        "sub_categories": {}
+                    },
+                    "Scale Reducer": {
+                        "category_Id": "W1-scale-reducer",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Sealed Heating Systems": {
+                "category_Id": "W1-sealed-systems",
+                "sub_categories": {
+                    "Expansion Vessels": {
+                        "category_Id": "W1-expansion-vessels2",
+                        "sub_categories": {}
+                    },
+                    "Pressurisation Units": {
+                        "category_Id": "W1-pressurisation-units",
+                        "sub_categories": {}
+                    },
+                    "Sealed System Separators": {
+                        "category_Id": "W1-separators",
+                        "sub_categories": {}
+                    },
+                    "Central Heating Air Vents": {
+                        "category_Id": "W1-air-vents",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Fires and Surrounds": {
+                "category_Id": "W1-fires-surrounds",
+                "sub_categories": {
+                    "Gas Fires": {
+                        "category_Id": "W1-fires-gas",
+                        "sub_categories": {}
+                    },
+                    "Electric Fires": {
+                        "category_Id": "W1-fires-electric",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Flue & Chimney Systems": {
+                "category_Id": "W1-flues-accessories",
+                "sub_categories": {
+                    "Rigid Flue Systems": {
+                        "category_Id": "W1-rigid-flue-systems",
+                        "sub_categories": {}
+                    },
+                    "Flue Terminals": {
+                        "category_Id": "W1-cowls-terminals",
+                        "sub_categories": {}
+                    },
+                    "Flue Guards": {
+                        "category_Id": "W1-flue-guards",
+                        "sub_categories": {}
+                    },
+                    "Flue Pipes": {
+                        "category_Id": "W1-flue-pipes",
+                        "sub_categories": {}
+                    },
+                    "Chimney Systems": {
+                        "category_Id": "W1-chimney-systems",
+                        "sub_categories": {}
+                    },
+                    "Chimney Flashings": {
+                        "category_Id": "W1-flashings",
+                        "sub_categories": {}
+                    },
+                    "Flue Parts and Accessories": {
+                        "category_Id": "W1-flue-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Oil Tanks": {
+                "category_Id": "W1-oil-tanks",
+                "sub_categories": {}
+            },
+            "Warm Air Heating": {
+                "category_Id": "W1-air-heaters",
+                "sub_categories": {
+                    "Wall Heaters": {
+                        "category_Id": "W1-wall-heaters",
+                        "sub_categories": {}
+                    },
+                    "Unit Heaters": {
+                        "category_Id": "W1-unit-heaters",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Burner Parts": {
+                "category_Id": "W1-burner-parts-controls",
+                "sub_categories": {
+                    "Burner Controls": {
+                        "category_Id": "W1-burner-controls",
+                        "sub_categories": {}
+                    },
+                    "Valves": {
+                        "category_Id": "W1-valves3",
+                        "sub_categories": {}
+                    },
+                    "Actuators": {
+                        "category_Id": "W1-actuators",
+                        "sub_categories": {}
+                    },
+                    "Heating Oil Pumps & Fuel Pumps": {
+                        "category_Id": "W1-fuel-pumps",
+                        "sub_categories": {}
+                    },
+                    "Nozzles": {
+                        "category_Id": "W1-oil-nozzles",
+                        "sub_categories": {}
+                    },
+                    "Motors": {
+                        "category_Id": "W1-motors",
+                        "sub_categories": {}
+                    },
+                    "Fans": {
+                        "category_Id": "W1-fans",
+                        "sub_categories": {}
+                    },
+                    "Switches and Gauges": {
+                        "category_Id": "W1-switches-gauges",
+                        "sub_categories": {}
+                    },
+                    "Capacitors": {
+                        "category_Id": "W1-capacitors",
+                        "sub_categories": {}
+                    },
+                    "Electrodes and Probes": {
+                        "category_Id": "W1-electrodes",
+                        "sub_categories": {}
+                    },
+                    "Complete Burners": {
+                        "category_Id": "W1-complete-burners",
+                        "sub_categories": {}
+                    },
+                    "Burner Consumables": {
+                        "category_Id": "W1-burner-consumables",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Underfloor Heating": {
+                "category_Id": "W1-underfloor-heating",
+                "sub_categories": {
+                    "Electric Underfloor Heating": {
+                        "category_Id": "W1-electric-underfloor-heating",
+                        "sub_categories": {}
+                    },
+                    "Water Underfloor Heating": {
+                        "category_Id": "W1-wet-systems",
+                        "sub_categories": {}
+                    },
+                    "Underfloor Heating Manifolds": {
+                        "category_Id": "W1-pumps-manifolds",
+                        "sub_categories": {}
+                    },
+                    "Underfloor Heating Thermostats and Controls": {
+                        "category_Id": "W1-ufh-controls-valves",
+                        "sub_categories": {}
+                    },
+                    "Underfloor Heating Pipes": {
+                        "category_Id": "W1-ufh-pipes",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Hybrid Heating Systems \u2013 Hybrid Heat Pumps and Boilers": {
+                "category_Id": "W1-hybrid-heating-systems",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Renewables": {
+        "category_Id": "W1-renewables",
+        "sub_categories": {
+            "Air Source Heat Pumps (ASHP)": {
+                "category_Id": "W1-air-source-heat-pumps",
+                "sub_categories": {
+                    "Hot Water & Thermal Store Cylinders": {
+                        "category_Id": "W1-cylinders-for-renewable-solutions",
+                        "sub_categories": {
+                            "Air Source Heat Pump Cylinders": {
+                                "category_Id": "W1-air-source-heat-pump-cylinders",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Air to Water Heat Pumps": {
+                        "category_Id": "W1-air-water-heat-pumps",
+                        "sub_categories": {}
+                    },
+                    "Air Source Heat Pump Parts & Accessories": {
+                        "category_Id": "W1-ashp-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Hybrid Heating Systems \u2013 Hybrid Heat Pumps and Boilers": {
+                        "category_Id": "W1-hybrid-heating-systems",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Heat Emitters": {
+                "category_Id": "W1-heat-emitters",
+                "sub_categories": {
+                    "Triple panel triple convector K3 radiators (Type 33)": {
+                        "category_Id": "W1-triple-panel-triple-convector-K3",
+                        "sub_categories": {}
+                    },
+                    "Electric Heating": {
+                        "category_Id": "W1-electrical-heating",
+                        "sub_categories": {
+                            "Panel Heaters": {
+                                "category_Id": "W1-panel-heaters",
+                                "sub_categories": {}
+                            },
+                            "Storage Heaters": {
+                                "category_Id": "W1-storage-heaters",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Underfloor Heating": {
+                        "category_Id": "W1-underfloor-heating",
+                        "sub_categories": {
+                            "Electric Underfloor Heating": {
+                                "category_Id": "W1-electric-underfloor-heating",
+                                "sub_categories": {}
+                            },
+                            "Water Underfloor Heating": {
+                                "category_Id": "W1-wet-systems",
+                                "sub_categories": {}
+                            },
+                            "Underfloor Heating Manifolds": {
+                                "category_Id": "W1-pumps-manifolds",
+                                "sub_categories": {}
+                            },
+                            "Underfloor Heating Thermostats and Controls": {
+                                "category_Id": "W1-ufh-controls-valves",
+                                "sub_categories": {}
+                            },
+                            "Underfloor Heating Pipes": {
+                                "category_Id": "W1-ufh-pipes",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "District Heating": {
+                "category_Id": "W1-district-heating",
+                "sub_categories": {
+                    "Hot Water & Thermal Store Cylinders": {
+                        "category_Id": "W1-cylinders-for-renewable-solutions",
+                        "sub_categories": {
+                            "Air Source Heat Pump Cylinders": {
+                                "category_Id": "W1-air-source-heat-pump-cylinders",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Pre-Insulated Pipes & Pipe Coils": {
+                        "category_Id": "W1-pre-insulated-pipes-coils",
+                        "sub_categories": {}
+                    },
+                    "Heat Interface Units (HIUs)": {
+                        "category_Id": "W1-heat-interface-units",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Ground Source Heat Pumps (GSHP)": {
+                "category_Id": "W1-ground-source-heat-pumps",
+                "sub_categories": {
+                    "Hot Water & Thermal Store Cylinders": {
+                        "category_Id": "W1-cylinders-for-renewable-solutions",
+                        "sub_categories": {
+                            "Air Source Heat Pump Cylinders": {
+                                "category_Id": "W1-air-source-heat-pump-cylinders",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Heat Pumps": {
+                        "category_Id": "W1-heat-pumps",
+                        "sub_categories": {}
+                    },
+                    "Pre-Insulated Pipes & Pipe Coils": {
+                        "category_Id": "W1-pre-insulated-pipes-coils",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Waste Water Heat Recovery Systems": {
+                "category_Id": "W1-waste-water-heat-recovery-systems",
+                "sub_categories": {}
+            },
+            "Solar Panels, Battery Storage and Accessories": {
+                "category_Id": "w1-solar",
+                "sub_categories": {
+                    "Solar Panels": {
+                        "category_Id": "w1-solar-pv-panels",
+                        "sub_categories": {}
+                    },
+                    "Solar Inverters": {
+                        "category_Id": "W1-solar-inverters",
+                        "sub_categories": {}
+                    },
+                    "Solar Thermal Heating Systems": {
+                        "category_Id": "W1-solar-thermal-heating",
+                        "sub_categories": {
+                            "Flat Plate Collectors": {
+                                "category_Id": "W1-flat-plate-collectors",
+                                "sub_categories": {}
+                            },
+                            "Connection Sets": {
+                                "category_Id": "W1-connection-sets",
+                                "sub_categories": {}
+                            },
+                            "Solar Thermal Parts and Accessories": {
+                                "category_Id": "W1-solar-thermal-parts-accessories",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Ventilation Systems": {
+                "category_Id": "W1-mechanical-ventilation-systems-with-heat-recovery",
+                "sub_categories": {
+                    "Ducting & Grilles": {
+                        "category_Id": "W1-ducting-grilles",
+                        "sub_categories": {}
+                    },
+                    "Ducting & Grill Accessories": {
+                        "category_Id": "W1-ducting-grill-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Biomass": {
+                "category_Id": "W1-biomass-systems",
+                "sub_categories": {
+                    "Pellets": {
+                        "category_Id": "W1-pellets",
+                        "sub_categories": {}
+                    }
+                }
+            }
+        }
+    },
+    "Bathrooms and Kitchens": {
+        "category_Id": "W1-bathrooms-kitchens",
+        "sub_categories": {
+            "Bathroom Taps": {
+                "category_Id": "W1-bathroom-taps",
+                "sub_categories": {
+                    "Bathroom Monobloc Taps": {
+                        "category_Id": "W1-bathroom-taps-monobloc-taps",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Pillar Taps": {
+                        "category_Id": "W1-bathroom-taps-pillar",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Filler Taps": {
+                        "category_Id": "W1-bathroom-taps-filler",
+                        "sub_categories": {}
+                    },
+                    "Bath Shower Mixer Taps": {
+                        "category_Id": "W1-bathroom-taps-mixer",
+                        "sub_categories": {}
+                    },
+                    "Wall Mounted Bathroom Taps": {
+                        "category_Id": "W1-bathroom-taps-wall-mounted",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Toilets": {
+                "category_Id": "W1-toilets",
+                "sub_categories": {
+                    "Toilet Spares and Parts": {
+                        "category_Id": "W1-toilet-accessories",
+                        "sub_categories": {
+                            "Toilet Cistern Parts": {
+                                "category_Id": "W1-toilet-cistern-parts",
+                                "sub_categories": {}
+                            },
+                            "Toilet Flush Parts": {
+                                "category_Id": "W1-toilet-flush-parts",
+                                "sub_categories": {}
+                            },
+                            "Toilet Seat Parts": {
+                                "category_Id": "W1-toilet-seat-parts",
+                                "sub_categories": {}
+                            },
+                            "Toilet Pan Parts": {
+                                "category_Id": "W1-toilet-pan-parts",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Back To Wall Toilet Pans": {
+                        "category_Id": "W1-toilets-back-to-wall",
+                        "sub_categories": {}
+                    },
+                    "Close Coupled Toilets": {
+                        "category_Id": "W1-toilets-close-coupled",
+                        "sub_categories": {}
+                    },
+                    "Low Level Toilet Pans": {
+                        "category_Id": "W1-toilets-low-level",
+                        "sub_categories": {}
+                    },
+                    "Raised Height Toilet Pans": {
+                        "category_Id": "W1-toilets-raised-height",
+                        "sub_categories": {}
+                    },
+                    "Wall Hung Toilet Pans": {
+                        "category_Id": "W1-toilets-wall-hung",
+                        "sub_categories": {}
+                    },
+                    "Toilet Cisterns": {
+                        "category_Id": "W1-toilet-cisterns",
+                        "sub_categories": {}
+                    },
+                    "Toilet Seats": {
+                        "category_Id": "W1-toilet-seats",
+                        "sub_categories": {}
+                    },
+                    "Macerators and Macerator Pumps": {
+                        "category_Id": "W1-macerators",
+                        "sub_categories": {}
+                    },
+                    "Toilet Packs": {
+                        "category_Id": "W1-toilet-packs",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Bathroom Sinks": {
+                "category_Id": "W1-basins",
+                "sub_categories": {
+                    "Wall and Pedestal Basins": {
+                        "category_Id": "W1-basins-wall-pedestal",
+                        "sub_categories": {}
+                    },
+                    "Corner Basins": {
+                        "category_Id": "W1-basins-corner",
+                        "sub_categories": {}
+                    },
+                    "Semi-Recessed Basins": {
+                        "category_Id": "W1-basins-recessed",
+                        "sub_categories": {}
+                    },
+                    "Countertop Basins": {
+                        "category_Id": "W1-basins-countertop",
+                        "sub_categories": {}
+                    },
+                    "Cloakroom Basins": {
+                        "category_Id": "W1-basins-cloakroom",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Baths and Bath Panels": {
+                "category_Id": "W1-baths-panels",
+                "sub_categories": {
+                    "Single Ended Baths": {
+                        "category_Id": "W1-bath-panels-single-ended",
+                        "sub_categories": {}
+                    },
+                    "Double Ended Baths": {
+                        "category_Id": "W1-bath-panels-double-ended",
+                        "sub_categories": {}
+                    },
+                    "Shower Baths": {
+                        "category_Id": "W1-bath-panels-shower-baths",
+                        "sub_categories": {}
+                    },
+                    "Freestanding Baths": {
+                        "category_Id": "W1-bath-panels-freestanding",
+                        "sub_categories": {}
+                    },
+                    "Bath End Panels": {
+                        "category_Id": "W1-bath-panels-end",
+                        "sub_categories": {}
+                    },
+                    "Bath Front Panels": {
+                        "category_Id": "W1-bath-front-panels",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Bathroom Suites": {
+                "category_Id": "W1-bathroom-suites",
+                "sub_categories": {
+                    "Complete Bathroom Suites": {
+                        "category_Id": "W1-full-bathroom-suites",
+                        "sub_categories": {}
+                    },
+                    "En-Suite Bathrooms": {
+                        "category_Id": "W1-en-suite-bathrooms",
+                        "sub_categories": {}
+                    },
+                    "Toilet And Basin Sets": {
+                        "category_Id": "W1-toilet-and-basin-suites",
+                        "sub_categories": {}
+                    },
+                    "Cloakroom Suites": {
+                        "category_Id": "w1-cloakroom-suites",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Bathroom Furniture": {
+                "category_Id": "W1-bathroom-furniture",
+                "sub_categories": {
+                    "Bathroom Cabinets": {
+                        "category_Id": "W1-bathroom-furniture-cabinets",
+                        "sub_categories": {}
+                    },
+                    "Toilet Units": {
+                        "category_Id": "W1-bathroom-furniture-toilet-units",
+                        "sub_categories": {}
+                    },
+                    "Vanity Units": {
+                        "category_Id": "W1-bathroom-furniture-vanity-units",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Mirrors": {
+                        "category_Id": "W1-bathroom-furniture-mirrors",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Worktops and Plinths": {
+                        "category_Id": "W1-bathroom-furniture-worktops-and-plinths",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Base Units": {
+                        "category_Id": "W1-base-units",
+                        "sub_categories": {}
+                    },
+                    "Furniture Doors and Panels": {
+                        "category_Id": "W1-bathroom-furniture-doors-panels",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Wall Units": {
+                        "category_Id": "W1-bathroom-wall-units",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Bathroom Cladding and Panels": {
+                "category_Id": "W1-bathroom-panels",
+                "sub_categories": {
+                    "Bathroom Wall Cladding": {
+                        "category_Id": "W1-wall-panels",
+                        "sub_categories": {}
+                    },
+                    "Floor Panels": {
+                        "category_Id": "W1-floor-panels",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Independent Living Bathrooms": {
+                "category_Id": "W1-independent-living-bathrooms",
+                "sub_categories": {}
+            },
+            "Bathroom Accessories": {
+                "category_Id": "W1-bathroom-parts-accessories",
+                "sub_categories": {}
+            },
+            "Kitchen": {
+                "category_Id": "W1-kitchen",
+                "sub_categories": {
+                    "Kitchen Monobloc Taps": {
+                        "category_Id": "W1-kitchen-monobloc-taps",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Mixer Taps": {
+                        "category_Id": "W1-kitchen-mixer-taps",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Pillar Taps": {
+                        "category_Id": "W1-kitchen-taps-pillar",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Sinks": {
+                        "category_Id": "W1-kitchen-sinks",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Plumbing Parts": {
+                        "category_Id": "W1-kitchen-plumbing-parts",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Essentials": {
+                        "category_Id": "W1-kitchen-essentials",
+                        "sub_categories": {}
+                    },
+                    "Kitchen Tap Parts and Accessories": {
+                        "category_Id": "W1-kitchen-tap-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Bathroom Ventilation": {
+                "category_Id": "W1-ventilation",
+                "sub_categories": {
+                    "Ducting & Grilles": {
+                        "category_Id": "W1-ducting-grilles",
+                        "sub_categories": {}
+                    },
+                    "Bathroom Extractor Fans": {
+                        "category_Id": "W1-extractor-fans",
+                        "sub_categories": {}
+                    },
+                    "Ducting & Grill Accessories": {
+                        "category_Id": "W1-ducting-grill-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            }
+        }
+    },
+    "Showering": {
+        "category_Id": "W1-showering",
+        "sub_categories": {
+            "Showers": {
+                "category_Id": "W1-showers",
+                "sub_categories": {
+                    "Electric Showers": {
+                        "category_Id": "W1-electric-showers",
+                        "sub_categories": {}
+                    },
+                    "Mixer Showers": {
+                        "category_Id": "W1-mixer-showers",
+                        "sub_categories": {}
+                    },
+                    "Power Showers": {
+                        "category_Id": "W1-power-showers",
+                        "sub_categories": {}
+                    },
+                    "Smart Showers": {
+                        "category_Id": "W1-smart-showers",
+                        "sub_categories": {}
+                    },
+                    "Digital Showers": {
+                        "category_Id": "W1-digital-showers",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Shower Parts and Accessories": {
+                "category_Id": "W1-shower-accessories",
+                "sub_categories": {
+                    "Fixed Shower Heads": {
+                        "category_Id": "W1-shower-heads",
+                        "sub_categories": {}
+                    },
+                    "Shower Arms": {
+                        "category_Id": "W1-shower-arms",
+                        "sub_categories": {}
+                    },
+                    "Shower Hoses": {
+                        "category_Id": "W1-shower-hoses",
+                        "sub_categories": {}
+                    },
+                    "Handheld Shower Heads": {
+                        "category_Id": "W1-handheld-shower-heads",
+                        "sub_categories": {}
+                    },
+                    "Shower Seats": {
+                        "category_Id": "W1-shower-seats",
+                        "sub_categories": {}
+                    },
+                    "Shower Valves": {
+                        "category_Id": "W1-valves2",
+                        "sub_categories": {}
+                    },
+                    "Shower Cartridges": {
+                        "category_Id": "W1-shower-cartridges",
+                        "sub_categories": {}
+                    },
+                    "Shower Brackets": {
+                        "category_Id": "W1-brackets2",
+                        "sub_categories": {}
+                    },
+                    "Shower Rail Kits": {
+                        "category_Id": "W1-shower-rail-kits",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Shower Pumps": {
+                "category_Id": "W1-shower-pumps",
+                "sub_categories": {
+                    "Single Impeller Shower Pumps": {
+                        "category_Id": "W1-shower-pumps-single-impeller",
+                        "sub_categories": {}
+                    },
+                    "Twin Impeller Shower Pumps": {
+                        "category_Id": "W1-shower-pumps-twin-impeller",
+                        "sub_categories": {}
+                    },
+                    "Shower Pump Accessories": {
+                        "category_Id": "W1-shower-pump-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Shower Trays and Bases": {
+                "category_Id": "W1-shower-trays",
+                "sub_categories": {
+                    "Offset Shower Trays": {
+                        "category_Id": "W1-shower-trays-offset",
+                        "sub_categories": {}
+                    },
+                    "Quadrant Shower Trays": {
+                        "category_Id": "W1-shower-trays-quadrant",
+                        "sub_categories": {}
+                    },
+                    "Rectangular Shower Trays": {
+                        "category_Id": "W1-shower-trays-rectangular",
+                        "sub_categories": {}
+                    },
+                    "Square Shower Trays": {
+                        "category_Id": "W1-shower-trays-square",
+                        "sub_categories": {}
+                    },
+                    "Shower Tray Accessories": {
+                        "category_Id": "W1-shower-waste-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Shower Doors and Enclosures": {
+                "category_Id": "W1-shower-enclosures",
+                "sub_categories": {
+                    "Quadrant Shower Enclosures": {
+                        "category_Id": "W1-quadrant-shower-enclosures",
+                        "sub_categories": {}
+                    },
+                    "Bifold Shower Doors": {
+                        "category_Id": "W1-bifold-shower-doors",
+                        "sub_categories": {}
+                    },
+                    "Pivot Shower Enclosures": {
+                        "category_Id": "W1-shower-pivot-enclosures",
+                        "sub_categories": {}
+                    },
+                    "Sliding Shower Enclosures": {
+                        "category_Id": "W1-sliding-shower-enclosures",
+                        "sub_categories": {}
+                    },
+                    "Corner Entry Shower Enclosures": {
+                        "category_Id": "W1-corner-entry-enclosures",
+                        "sub_categories": {}
+                    },
+                    "Other Shower Enclosures": {
+                        "category_Id": "W1-other-shower-enclosures",
+                        "sub_categories": {}
+                    },
+                    "Wet Room Panels": {
+                        "category_Id": "W1-wet-rooms",
+                        "sub_categories": {}
+                    },
+                    "Shower Panels": {
+                        "category_Id": "W1-shower-panels",
+                        "sub_categories": {}
+                    },
+                    "Shower Enclosure Accessories": {
+                        "category_Id": "W1-shower-enclosure-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Shower Curtains and Screens": {
+                "category_Id": "W1-shower-screens-curtains",
+                "sub_categories": {
+                    "Square Shower Screens": {
+                        "category_Id": "W1-shower-screens-square",
+                        "sub_categories": {}
+                    },
+                    "Curved Shower Screens": {
+                        "category_Id": "W1-shower-screens-curved",
+                        "sub_categories": {}
+                    },
+                    "Sail Shower Screens": {
+                        "category_Id": "W1-shower-screens-sail",
+                        "sub_categories": {}
+                    },
+                    "Folding Shower Screens": {
+                        "category_Id": "W1-shower-screens-folding",
+                        "sub_categories": {}
+                    },
+                    "Shower Curtains ": {
+                        "category_Id": "W1-shower-curtains",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Commercial Showering": {
+                "category_Id": "W1-commercial-showering",
+                "sub_categories": {
+                    "Commercial Shower Parts and Accessories": {
+                        "category_Id": "W1-commercial-shower-parts",
+                        "sub_categories": {}
+                    }
+                }
+            }
+        }
+    },
+    "Commercial Plumbing": {
+        "category_Id": "W1-commercial-plumbing",
+        "sub_categories": {
+            "Commercial Brassware": {
+                "category_Id": "W1-commercial-brassware",
+                "sub_categories": {}
+            },
+            "Commercial Sanitaryware": {
+                "category_Id": "W1-commercial-sanitaryware",
+                "sub_categories": {}
+            },
+            "Commercial Cisterns and Frames": {
+                "category_Id": "W1-cistern-frames",
+                "sub_categories": {}
+            },
+            "Commercial Flushing Controls and Valves": {
+                "category_Id": "W1-flushing-controls-valves",
+                "sub_categories": {}
+            },
+            "Commercial Macerators and Waste Pumps": {
+                "category_Id": "W1-commercial-waste-pumps-macerators",
+                "sub_categories": {}
+            },
+            "Urinals": {
+                "category_Id": "W1-urinals",
+                "sub_categories": {}
+            },
+            "Grab Bar and Rails": {
+                "category_Id": "W1-grab-rails",
+                "sub_categories": {}
+            },
+            "Doc M Packs": {
+                "category_Id": "W1-doc-m-packs",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Air Conditioning": {
+        "category_Id": "W1-air-conditioning",
+        "sub_categories": {
+            "Daikin R32 Indoor Units": {
+                "category_Id": "W1-daikin-r32-units",
+                "sub_categories": {
+                    "Wall Mounted": {
+                        "category_Id": "W1-daikin-r32-wall-mounted",
+                        "sub_categories": {
+                            "Budget Wall Mounted": {
+                                "category_Id": "W1-daikin-wall-mounted-r32-budget-inverters",
+                                "sub_categories": {}
+                            },
+                            "Standard Wall Mounted": {
+                                "category_Id": "W1-daikin-wall-mounted-r32-standard-inverters",
+                                "sub_categories": {}
+                            },
+                            "Emura Wall Mounted": {
+                                "category_Id": "W1-daikin-wall-mounted-r32-emura-inverters",
+                                "sub_categories": {}
+                            },
+                            "Stylish Wall Mounted": {
+                                "category_Id": "W1-daikin-wall-mounted-r32-stylish-inverters",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Cassette": {
+                        "category_Id": "W1-daikin-r32-compact-cassette",
+                        "sub_categories": {
+                            "Compact Cassette": {
+                                "category_Id": "W1-daikin-r32-standard-compact-cassette-inverters",
+                                "sub_categories": {}
+                            },
+                            "Compact Cassette - Long Run": {
+                                "category_Id": "W1-daikin-r32-long-run-compact-cassette-inverters",
+                                "sub_categories": {}
+                            },
+                            "Standard Under Ceiling Cassette": {
+                                "category_Id": "W1-daikin-r32-standard-under-ceiling-cassette",
+                                "sub_categories": {}
+                            },
+                            "Premium Under Ceiling Cassette": {
+                                "category_Id": "W1-daikin-r32-premium-under-ceiling-cassette",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Ceilling Suspended": {
+                        "category_Id": "W1-daikin-r32-ceilling-suspended",
+                        "sub_categories": {
+                            "Standard Ceiling Suspended": {
+                                "category_Id": "W1-daikin-r32-standard-ceilling-suspended-inverters",
+                                "sub_categories": {}
+                            },
+                            "Premium Ceiling Suspended": {
+                                "category_Id": "W1-daikin-r32-premium-ceilling-suspended-inverters",
+                                "sub_categories": {}
+                            },
+                            "Ceiling Suspended - Long Run": {
+                                "category_Id": "W1-daikin-r32-ceiling-suspended-long-run",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Vertical Chassis": {
+                        "category_Id": "W1-daikin-r32-vertical-chassis",
+                        "sub_categories": {
+                            "Standard Vertical Chassis": {
+                                "category_Id": "W1-daikin-r32-standard-vertical-chassis-inverters",
+                                "sub_categories": {}
+                            },
+                            "Vertical Chassis - Long Run": {
+                                "category_Id": "W1-daikin-r32-vertical-chassis-inverters-long-run",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Ducted": {
+                        "category_Id": "W1-daikin-r32-ducted",
+                        "sub_categories": {
+                            "Standard DC Ducted": {
+                                "category_Id": "W1-daikin-r32-dc-ducted-inverters",
+                                "sub_categories": {}
+                            },
+                            "Standard DC Ducted - Long Runs": {
+                                "category_Id": "W1-daikin-r32-dc-long-pipe-runs-ducted-inverters",
+                                "sub_categories": {}
+                            },
+                            "Economy DC Ducted": {
+                                "category_Id": "W1-daikin-r32-economy-ducted-inverters",
+                                "sub_categories": {}
+                            },
+                            "Premium DC Ducted": {
+                                "category_Id": "W1-daikin-r32-premium-ducted-inverters",
+                                "sub_categories": {}
+                            },
+                            "Slim DC Ducted": {
+                                "category_Id": "W1-daikin-r32-dc-slim-ducted-inverters",
+                                "sub_categories": {}
+                            },
+                            "Slim DC Ducted - Long Runs": {
+                                "category_Id": "W1-daikin-r32-dc-long-pipe-runs-slim-ducted-inverters",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Fujitsu R32 Indoor Units": {
+                "category_Id": "W1-fujitsu-r32-units",
+                "sub_categories": {
+                    "Wall Mounted": {
+                        "category_Id": "W1-fujitsu-r32-wall-mounted",
+                        "sub_categories": {
+                            "Budget Wall Mounted": {
+                                "category_Id": "W1-fujitsu-r32-budget-wall-mounted",
+                                "sub_categories": {}
+                            },
+                            "Standard Wall Mounted": {
+                                "category_Id": "W1-fujitsu-r32-standard-wall-mounted",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Floor Mounted": {
+                        "category_Id": "W1-fujitsu-r32-floor-mounted",
+                        "sub_categories": {}
+                    },
+                    "Cassette": {
+                        "category_Id": "W1-fujitsu-r32-cassette",
+                        "sub_categories": {
+                            "Compact Cassette": {
+                                "category_Id": "W1-fujitsu-r32-compact-cassette",
+                                "sub_categories": {}
+                            },
+                            "Circular Flow Cassette": {
+                                "category_Id": "W1-fujitsu-r32-circular-flow-cassette",
+                                "sub_categories": {}
+                            },
+                            "Compact Cassette - Long Run": {
+                                "category_Id": "W1-fujitsu-r32-compact-cassette-long-run",
+                                "sub_categories": {}
+                            },
+                            "Circular Flow Cassette - Long Run": {
+                                "category_Id": "W1-fujitsu-r32-circular-flow-cassette-long-run",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Ceiling Mounted": {
+                        "category_Id": "W1-fujitsu-r32-ceiling-mounted",
+                        "sub_categories": {
+                            "ECO Ceiling Mounted": {
+                                "category_Id": "W1-fujitsu-r32-ECO-ceiling-mounted",
+                                "sub_categories": {}
+                            },
+                            "Standard Ceiling Mounted": {
+                                "category_Id": "W1-fujitsu-r32-standard-ceiling-mounted",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Ducted": {
+                        "category_Id": "W1-fujitsu-r32-ducted",
+                        "sub_categories": {
+                            "ECO Slim Ducted": {
+                                "category_Id": "W1-fujitsu-r32-eco-slim-ducted",
+                                "sub_categories": {}
+                            },
+                            "Standard Slim Ducted": {
+                                "category_Id": "W1-fujitsu-r32-standard-slim-ducted",
+                                "sub_categories": {}
+                            },
+                            "Medium Static Ducted": {
+                                "category_Id": "W1-fujitsu-r32-medium-static-ducted",
+                                "sub_categories": {}
+                            },
+                            "High Static Ducted": {
+                                "category_Id": "W1-fujitsu-r32-high-static-ducted",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Daikin R32 Outdoor Units": {
+                "category_Id": "W1-daikin-r32-outdoor-units",
+                "sub_categories": {}
+            },
+            "Fujitsu R32 Outdoor Units": {
+                "category_Id": "W1-fujitsu-r32-outdoor-units",
+                "sub_categories": {}
+            },
+            "Mobile Air Conditioning Systems": {
+                "category_Id": "W1-mobile-air-conditioning-systems",
+                "sub_categories": {}
+            },
+            "Air Conditioning Installation": {
+                "category_Id": "W1-ac-installation",
+                "sub_categories": {
+                    "AC Pipe, Fittings & Insulation": {
+                        "category_Id": "W1-air-conditioning-pipe-and-insulation",
+                        "sub_categories": {}
+                    },
+                    "Condensate Air Conditioner Pumps": {
+                        "category_Id": "W1-condensate-pumps",
+                        "sub_categories": {
+                            "Tank Condensate Pumps": {
+                                "category_Id": "W1-tank-condensate-pumps",
+                                "sub_categories": {}
+                            },
+                            "Mini Condensate Pumps": {
+                                "category_Id": "W1-mini-condensate-pumps",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Heat Recovery Systems": {
+                        "category_Id": "W1-heat-recovery-ventilation-units",
+                        "sub_categories": {}
+                    },
+                    "Roof Support Systems": {
+                        "category_Id": "W1-roof-support-systems",
+                        "sub_categories": {}
+                    },
+                    "Accessories": {
+                        "category_Id": "W1-installation-accessories",
+                        "sub_categories": {}
+                    },
+                    "Condensate Pump Parts & Accessories": {
+                        "category_Id": "W1-condensate-pump-parts-acccessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "HVAC Chemicals & Cleaners": {
+                "category_Id": "W1-HVAC-Chemicals-Cleaners",
+                "sub_categories": {}
+            },
+            "Air Conditioning Parts": {
+                "category_Id": "W1-ac-parts-accessories",
+                "sub_categories": {
+                    "Daikin Air Conditioning Spare Parts": {
+                        "category_Id": "W1-daikin-ac-parts",
+                        "sub_categories": {}
+                    },
+                    "Fujitsu Air Conditioning Spares": {
+                        "category_Id": "W1-fujitsu-ac-parts",
+                        "sub_categories": {}
+                    },
+                    "Toshiba Air Conditioning Parts ": {
+                        "category_Id": "W1-toshiba-ac-parts",
+                        "sub_categories": {}
+                    },
+                    "Pump House Air Con Parts": {
+                        "category_Id": "W1-pump-house-ac-parts",
+                        "sub_categories": {}
+                    },
+                    "HVAC Service Equipment": {
+                        "category_Id": "W1-service-equipment",
+                        "sub_categories": {
+                            "Recovery Equipment": {
+                                "category_Id": "W1-recovery-equipment",
+                                "sub_categories": {}
+                            },
+                            "Refrigerant Hoses and Gauges": {
+                                "category_Id": "W1-refrigerant-hoses-gauges",
+                                "sub_categories": {}
+                            },
+                            "Manifolds": {
+                                "category_Id": "W1-se-manifolds",
+                                "sub_categories": {}
+                            },
+                            "Vacuum Pumps": {
+                                "category_Id": "W1-vacuum-pumps",
+                                "sub_categories": {}
+                            },
+                            "Nitrogen Regulators": {
+                                "category_Id": "W1-nitrogen-regulators",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Refrigeration": {
+        "category_Id": "W1-refrigeration",
+        "sub_categories": {
+            "Refrigerants, Industrial Gas & Glycol": {
+                "category_Id": "W1-refrigeration-industrial-gases",
+                "sub_categories": {
+                    "A2L Gas": {
+                        "category_Id": "W1-a2l-gas",
+                        "sub_categories": {}
+                    },
+                    "CO2 Gas": {
+                        "category_Id": "W1-co2-gas",
+                        "sub_categories": {}
+                    },
+                    "High Gwp Gas": {
+                        "category_Id": "W1-high-gwp-gas",
+                        "sub_categories": {}
+                    },
+                    "Low & Mid Gwp Gas": {
+                        "category_Id": "W1-low-mid-gwp-gas",
+                        "sub_categories": {}
+                    },
+                    "Oxygen Free Nitrogen": {
+                        "category_Id": "W1-oxygen-free-nitrogen-gas",
+                        "sub_categories": {}
+                    },
+                    "Hydrocarbon Gas": {
+                        "category_Id": "W1-hydrocarbon-gas",
+                        "sub_categories": {}
+                    },
+                    "Glycol": {
+                        "category_Id": "W1-Glycol",
+                        "sub_categories": {}
+                    },
+                    "Reclaimed Gas": {
+                        "category_Id": "W1-reclaimed-gas",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Cellar Cooling": {
+                "category_Id": "W1-cellar-cooling",
+                "sub_categories": {}
+            },
+            "Refrigeration Pipe and Fittings": {
+                "category_Id": "W1-copper-refrigeration-fittings",
+                "sub_categories": {
+                    "Refrigeration Metal Pipes": {
+                        "category_Id": "W1-refrigeration-pipes",
+                        "sub_categories": {}
+                    },
+                    "Copper ACR Fittings": {
+                        "category_Id": "W1-copper-acr-fittings",
+                        "sub_categories": {}
+                    },
+                    "Copper K65 Fittings": {
+                        "category_Id": "W1-copper-k65-fittings",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Controls": {
+                "category_Id": "W1-climate-controls",
+                "sub_categories": {
+                    "Refrigeration Controllers": {
+                        "category_Id": "W1-refrigeration-controllers",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Pressure Switches": {
+                        "category_Id": "W1-refrigeration-pressure-switches",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Sensors": {
+                        "category_Id": "W1-refrigeration-sensors",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Solenoid Valve Coils": {
+                        "category_Id": "W1-refrigeration-solenoid-valve-coils",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration System Accessories": {
+                        "category_Id": "W1-refrigeration-system-accessories",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Thermostats": {
+                        "category_Id": "W1-refrigeration-thermostats",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Valves": {
+                        "category_Id": "W1-refrigeration-valves",
+                        "sub_categories": {
+                            "Refrigeration Expansion Valves": {
+                                "category_Id": "W1-refrigeration-expansion-valves",
+                                "sub_categories": {}
+                            },
+                            "Refrigeration Pressure Regulating Valve": {
+                                "category_Id": "W1-refrigeration-pressure-regulating-valve",
+                                "sub_categories": {}
+                            },
+                            "Refrigeration Solenoid Valves": {
+                                "category_Id": "W1-refrigeration-solenoid-valves",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Compressors": {
+                "category_Id": "W1-compressors",
+                "sub_categories": {
+                    "Hermetic Reciprocating Compressors": {
+                        "category_Id": "W1-hermetic-compressors",
+                        "sub_categories": {}
+                    },
+                    "Scroll Compressors": {
+                        "category_Id": "W1-scroll-hermetic-compressors",
+                        "sub_categories": {}
+                    },
+                    "Air Compressor Parts & Accessories": {
+                        "category_Id": "W1-compressor-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Condensing Units": {
+                "category_Id": "W1-condensing-units",
+                "sub_categories": {
+                    "Housed Condensing Units": {
+                        "category_Id": "W1-housed-condensing-units",
+                        "sub_categories": {}
+                    },
+                    "Unhoused Condensing Units": {
+                        "category_Id": "W1-unhoused-condensing-units",
+                        "sub_categories": {}
+                    },
+                    "Condensing Units Parts and Accessories": {
+                        "category_Id": "W1-condensing-units-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Evaporators & Condensers": {
+                "category_Id": "W1-evaporators-condensers",
+                "sub_categories": {
+                    "Commercial and Industrial": {
+                        "category_Id": "W1-commercial-condensers",
+                        "sub_categories": {}
+                    },
+                    "Evaporators": {
+                        "category_Id": "W1-evaporators",
+                        "sub_categories": {}
+                    },
+                    "Dual Discharge Evaporators": {
+                        "category_Id": "W1-dual-discharge-evaporators",
+                        "sub_categories": {}
+                    },
+                    "Evaporator Parts & Accessories": {
+                        "category_Id": "W1-evaporators-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Refrigeration Cylinders": {
+                "category_Id": "W1-refrigeration-cylinders",
+                "sub_categories": {
+                    "Receiver Cylinders": {
+                        "category_Id": "W1-refrigeration-receiver-cylinders",
+                        "sub_categories": {}
+                    },
+                    "Recovery Cylinder": {
+                        "category_Id": "W1-refrigeration-recovery-cylinder",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Refrigeration Electrical Components": {
+                "category_Id": "W1-refrigeration-electrical-components",
+                "sub_categories": {
+                    "Refrigeration Electrical Parts And Accessories": {
+                        "category_Id": "W1-refrigeration-electrical-parts-and-accessories",
+                        "sub_categories": {}
+                    },
+                    "Refrigeration Fans And Motors": {
+                        "category_Id": "W1-refrigeration-fans-and-motors",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Refrigeration Parts and Accessories": {
+                "category_Id": "W1-refrigeration-part-accessories",
+                "sub_categories": {
+                    "Refrigeration Ball Valves": {
+                        "category_Id": "W1-refrigeration-ball-valves",
+                        "sub_categories": {}
+                    },
+                    "Driers": {
+                        "category_Id": "W1-driers",
+                        "sub_categories": {}
+                    },
+                    "Heat Exchanger Spare Parts": {
+                        "category_Id": "W1-heat-exchanger-spare-parts",
+                        "sub_categories": {}
+                    },
+                    "Sight Glasses": {
+                        "category_Id": "W1-sight-glasses",
+                        "sub_categories": {}
+                    },
+                    "HVAC Service Equipment": {
+                        "category_Id": "W1-service-equipment",
+                        "sub_categories": {
+                            "Recovery Equipment": {
+                                "category_Id": "W1-recovery-equipment",
+                                "sub_categories": {}
+                            },
+                            "Refrigerant Hoses and Gauges": {
+                                "category_Id": "W1-refrigerant-hoses-gauges",
+                                "sub_categories": {}
+                            },
+                            "Manifolds": {
+                                "category_Id": "W1-se-manifolds",
+                                "sub_categories": {}
+                            },
+                            "Vacuum Pumps": {
+                                "category_Id": "W1-vacuum-pumps",
+                                "sub_categories": {}
+                            },
+                            "Nitrogen Regulators": {
+                                "category_Id": "W1-nitrogen-regulators",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Accessories": {
+                        "category_Id": "W1-installation-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            }
+        }
+    },
+    "Pipe, Valves and Fittings": {
+        "category_Id": "W1-pipe-valves-and-fittings",
+        "sub_categories": {
+            "Metal Pipe": {
+                "category_Id": "W1-metal-pipe",
+                "sub_categories": {
+                    "Copper Pipe": {
+                        "category_Id": "W1-copper-pipe",
+                        "sub_categories": {}
+                    },
+                    "Copper Coil": {
+                        "category_Id": "W1-copper-coil",
+                        "sub_categories": {}
+                    },
+                    "Carbon Steel Pipe": {
+                        "category_Id": "W1-carbon-steel-pipe",
+                        "sub_categories": {}
+                    },
+                    "Stainless Steel Pipe": {
+                        "category_Id": "W1-stainless-steel-pipe",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Metal Pipe Fittings": {
+                "category_Id": "W1-metal-pipe-fittings",
+                "sub_categories": {
+                    "Copper Pipe Fittings": {
+                        "category_Id": "W1-copper-pipe-fittings ",
+                        "sub_categories": {}
+                    },
+                    "Stainless Steel Pipe Fittings": {
+                        "category_Id": "W1-stainless-steel-pipe-fittings",
+                        "sub_categories": {
+                            "Stainless Steel Gas Fittings": {
+                                "category_Id": "W1-stainless-steel-gas-fittings",
+                                "sub_categories": {}
+                            },
+                            "Stainless Steel Press Fit Fittings": {
+                                "category_Id": "W1-stainless-steel-press-fit-fittings",
+                                "sub_categories": {}
+                            },
+                            "Stainless Steel Push Fit Fittings": {
+                                "category_Id": "W1-stainless-steel-push-fit-fittings",
+                                "sub_categories": {}
+                            },
+                            "Stainless Steel Weld Fittings": {
+                                "category_Id": "W1-stainless-steel-weld-fittings",
+                                "sub_categories": {}
+                            },
+                            "Stainless Steel Weld Flanges": {
+                                "category_Id": "W1-stainless-steel-weld-flanges",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Carbon Steel Pipe Fittings": {
+                        "category_Id": "W1-carbon-steel-pipe-fittings",
+                        "sub_categories": {
+                            "Carbon Steel Grooved Fittings": {
+                                "category_Id": "W1-carbon-steel-grooved-fittings",
+                                "sub_categories": {}
+                            },
+                            "Carbon Steel Malleable Fittings": {
+                                "category_Id": "W1-carbon-steel-malleable-fittings",
+                                "sub_categories": {}
+                            },
+                            "Carbon Steel Press Fit Fittings": {
+                                "category_Id": "W1-carbon-steel-press-fit-fittings",
+                                "sub_categories": {}
+                            },
+                            "Carbon Steel Primofit Fittings": {
+                                "category_Id": "W1-carbon-steel-primofit-fittings",
+                                "sub_categories": {}
+                            },
+                            "Carbon Steel Weld Fittings": {
+                                "category_Id": "W1-carbon-steel-weld-fittings",
+                                "sub_categories": {}
+                            },
+                            "Carbon Steel Weld Flanges": {
+                                "category_Id": "W1-carbon-steel-weld-flanges",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Refrigeration Pipe and Fittings": {
+                "category_Id": "W1-copper-refrigeration-fittings",
+                "sub_categories": {
+                    "Refrigeration Metal Pipes": {
+                        "category_Id": "W1-refrigeration-pipes",
+                        "sub_categories": {}
+                    },
+                    "Copper ACR Fittings": {
+                        "category_Id": "W1-copper-acr-fittings",
+                        "sub_categories": {}
+                    },
+                    "Copper K65 Fittings": {
+                        "category_Id": "W1-copper-k65-fittings",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Metal Pipe Valves": {
+                "category_Id": "W1-metal-pipe-valves",
+                "sub_categories": {
+                    "Gate Valves": {
+                        "category_Id": "W1-gate-valves",
+                        "sub_categories": {}
+                    },
+                    "Ball Valves": {
+                        "category_Id": "W1-ball-valves2",
+                        "sub_categories": {}
+                    },
+                    "Fire Equipment Accessories": {
+                        "category_Id": "W1-fire-equipment-accessories",
+                        "sub_categories": {}
+                    },
+                    "Actuators": {
+                        "category_Id": "W1-valve-actuators",
+                        "sub_categories": {}
+                    },
+                    "Balancing Valves": {
+                        "category_Id": "W1-balancing-valves",
+                        "sub_categories": {}
+                    },
+                    "Butterfly Valves": {
+                        "category_Id": "W1-butterfly-valves",
+                        "sub_categories": {}
+                    },
+                    "Pressure Reducing Valves": {
+                        "category_Id": "W1-pressure-reducing-valves",
+                        "sub_categories": {}
+                    },
+                    "Filters and Strainers": {
+                        "category_Id": "W1-filters-strainers",
+                        "sub_categories": {}
+                    },
+                    "Commissioning Valves": {
+                        "category_Id": "W1-commisioning-valves",
+                        "sub_categories": {}
+                    },
+                    "CIV Parts and Accessories": {
+                        "category_Id": "W1-commercial-industrial-valves-parts-accessories",
+                        "sub_categories": {}
+                    },
+                    "Globe Valves": {
+                        "category_Id": "W1-globe-valves",
+                        "sub_categories": {}
+                    },
+                    "Regulating Valves": {
+                        "category_Id": "W1-regulating-valves",
+                        "sub_categories": {}
+                    },
+                    "Safety Relief Valves": {
+                        "category_Id": "W1-safety-relief-valves",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Plumbers Brassware": {
+                "category_Id": "W1-plumbers-brassware",
+                "sub_categories": {
+                    "Flexible Tap Connectors": {
+                        "category_Id": "W1-flexible-tap-connectors",
+                        "sub_categories": {}
+                    },
+                    "Brass Fittings": {
+                        "category_Id": "W1-brass-fittings",
+                        "sub_categories": {}
+                    },
+                    "Bib Taps and Hose Unions": {
+                        "category_Id": "W1-bib-taps-hose-unions",
+                        "sub_categories": {}
+                    },
+                    "Plumbing Valves": {
+                        "category_Id": "W1-plumbing-valves",
+                        "sub_categories": {
+                            "Check Valves": {
+                                "category_Id": "W1-check-valves2",
+                                "sub_categories": {}
+                            },
+                            "Isolating Valves": {
+                                "category_Id": "W1-isolating-valves",
+                                "sub_categories": {}
+                            },
+                            "Float Valves": {
+                                "category_Id": "W1-plumbing-float-valves",
+                                "sub_categories": {}
+                            },
+                            "Pump Valves": {
+                                "category_Id": "W1-plumbing-pump-valves",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Stopcocks": {
+                        "category_Id": "W1-stopcocks",
+                        "sub_categories": {}
+                    },
+                    "Air Eliminators": {
+                        "category_Id": "W1-air-eliminators",
+                        "sub_categories": {}
+                    },
+                    "Gas Cooker Hoses": {
+                        "category_Id": "W1-gas-cooker-hoses",
+                        "sub_categories": {}
+                    },
+                    "Gas Pipe Fittings": {
+                        "category_Id": "W1-gas-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "Plumbing Sundries": {
+                        "category_Id": "W1-plumbing-sundries",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Plastic Pipe": {
+                "category_Id": "W1-plastic-pipe",
+                "sub_categories": {
+                    "PEX Pipe": {
+                        "category_Id": "W1-pex-pipe",
+                        "sub_categories": {}
+                    },
+                    "PE Pipe": {
+                        "category_Id": "W1-pe-pipe",
+                        "sub_categories": {}
+                    },
+                    "Pressure Pipe": {
+                        "category_Id": "W1-pressure-pipe",
+                        "sub_categories": {}
+                    },
+                    "ABS Pipe": {
+                        "category_Id": "W1-abs-pipe",
+                        "sub_categories": {}
+                    },
+                    "MLCP Pipe": {
+                        "category_Id": "W1-mlcp-pipe",
+                        "sub_categories": {}
+                    },
+                    "Polybutylene Pipe": {
+                        "category_Id": "W1-polybutylene-pipe",
+                        "sub_categories": {}
+                    },
+                    "C-PVC Pipe": {
+                        "category_Id": "W1-c-pvc-pipe",
+                        "sub_categories": {}
+                    },
+                    "U-PVC Pipe": {
+                        "category_Id": "W1-u-pvc-pipe",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Plastic Pipe Fittings": {
+                "category_Id": "W1-plastic-pipe-fittings",
+                "sub_categories": {
+                    "PEX Pipe Fittings": {
+                        "category_Id": "W1-pex-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "PE Pipe Fittings": {
+                        "category_Id": "W1-pe-pipe-fittings",
+                        "sub_categories": {
+                            "Clips, Clamps and Saddles": {
+                                "category_Id": "W1-clips-clamps-saddles",
+                                "sub_categories": {}
+                            },
+                            "PE Pipe Fittings Reducers": {
+                                "category_Id": "W1-reducers",
+                                "sub_categories": {}
+                            },
+                            "Caps": {
+                                "category_Id": "W1-caps",
+                                "sub_categories": {}
+                            },
+                            "Adaptors": {
+                                "category_Id": "W1-adaptors",
+                                "sub_categories": {}
+                            },
+                            "Tees": {
+                                "category_Id": "W1-tees",
+                                "sub_categories": {}
+                            },
+                            "Elbows and Bends": {
+                                "category_Id": "W1-elbows-bends",
+                                "sub_categories": {}
+                            },
+                            "Couplings": {
+                                "category_Id": "W1-couplings",
+                                "sub_categories": {}
+                            },
+                            "Pipe Parts and Accessories": {
+                                "category_Id": "W1-pipe-parts-accessories",
+                                "sub_categories": {}
+                            },
+                            "Valves and Taps": {
+                                "category_Id": "W1-valves-taps",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Pressure Pipe Fittings": {
+                        "category_Id": "W1-pressure-pipe-fittings",
+                        "sub_categories": {
+                            "Bends and Elbows": {
+                                "category_Id": "W1-bends-elbows2",
+                                "sub_categories": {}
+                            },
+                            "Unions": {
+                                "category_Id": "W1-unions",
+                                "sub_categories": {}
+                            },
+                            "Tees": {
+                                "category_Id": "W1-tees2",
+                                "sub_categories": {}
+                            },
+                            "Sockets": {
+                                "category_Id": "W1-sockets3",
+                                "sub_categories": {}
+                            },
+                            "Adaptors": {
+                                "category_Id": "W1-adaptors2",
+                                "sub_categories": {}
+                            },
+                            "Bushes": {
+                                "category_Id": "W1-bushes2",
+                                "sub_categories": {}
+                            },
+                            "Flanges": {
+                                "category_Id": "W1-flanges2",
+                                "sub_categories": {}
+                            },
+                            "Couplings": {
+                                "category_Id": "W1-couplings2",
+                                "sub_categories": {}
+                            },
+                            "Pressure Plastic Pipe Fittings Reducers": {
+                                "category_Id": "W1-reducers2",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "ABS Pipe Fittings": {
+                        "category_Id": "W1-abs-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "MLCP Pipe Fittings": {
+                        "category_Id": "W1-mlcp-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "Polybutylene Pipe Fittings": {
+                        "category_Id": "W1-polybutylene-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "Polypropylene Pipe Fittings": {
+                        "category_Id": "W1-polypropylene-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "C-PVC Pipe Fittings": {
+                        "category_Id": "W1-c-pvc-pipe-fittings",
+                        "sub_categories": {}
+                    },
+                    "U-PVC Pipe Fittings": {
+                        "category_Id": "W1-u-pvc-pipe-fittings",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Plastic Pipe Valves": {
+                "category_Id": "W1-plastic-pipe-valves",
+                "sub_categories": {
+                    "ABS Pipe Valves": {
+                        "category_Id": "W1-abs-pipe-valves",
+                        "sub_categories": {}
+                    },
+                    "MLCP Pipe Valves": {
+                        "category_Id": "W1-mlcp-pipe-valves",
+                        "sub_categories": {}
+                    },
+                    "Pressure Pipe Valves": {
+                        "category_Id": "W1-pressure-pipe-valves",
+                        "sub_categories": {}
+                    },
+                    "U-PVC Pipe Valves": {
+                        "category_Id": "W1-u-pvc-pipe-valves",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Pipe Support Systems": {
+                "category_Id": "W1-pipe-support-systems",
+                "sub_categories": {
+                    "Pipe Insulation": {
+                        "category_Id": "W1-pipe-insulation",
+                        "sub_categories": {}
+                    },
+                    "Pipe Boxing and Trunking": {
+                        "category_Id": "W1-trunking",
+                        "sub_categories": {}
+                    },
+                    "Pipe Clips and Clamps": {
+                        "category_Id": "W1-clips-clamps2",
+                        "sub_categories": {}
+                    },
+                    "Channels": {
+                        "category_Id": "W1-channels",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Pipe Support System Accessories": {
+                "category_Id": "W1-accessories",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Drainage": {
+        "category_Id": "W1-drainage",
+        "sub_categories": {
+            "Waste Pipe and Fittings": {
+                "category_Id": "W1-waste-pipe-fittings",
+                "sub_categories": {
+                    "Waste Pipes": {
+                        "category_Id": "W1-waste-pipes",
+                        "sub_categories": {}
+                    },
+                    "Waste Pipe Fittings": {
+                        "category_Id": "W1-waste-fittings",
+                        "sub_categories": {
+                            "Waste Pipe Adaptors": {
+                                "category_Id": "W1-waste-adaptors",
+                                "sub_categories": {}
+                            },
+                            "Brackets and Clips": {
+                                "category_Id": "W1-brackets-clips",
+                                "sub_categories": {}
+                            },
+                            "Waste Pipe Connectors": {
+                                "category_Id": "W1-waste-connectors",
+                                "sub_categories": {}
+                            },
+                            "Waste Pipe Couplings": {
+                                "category_Id": "W1-waste-couplings",
+                                "sub_categories": {}
+                            },
+                            "Waste Pipe Flanges": {
+                                "category_Id": "W1-waste-flanges",
+                                "sub_categories": {}
+                            },
+                            "Waste Pipe Plugs and Caps ": {
+                                "category_Id": "W1-waste-access-plugs",
+                                "sub_categories": {}
+                            },
+                            "Waste Pipe Reducers": {
+                                "category_Id": "W1-waste-reducers",
+                                "sub_categories": {}
+                            },
+                            "Waste Pipe Sockets": {
+                                "category_Id": "W1-waste-sockets-and-socket-plugs",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Waste Pipe Access": {
+                        "category_Id": "W1-waste-access",
+                        "sub_categories": {}
+                    },
+                    "Waste Pipe Bends": {
+                        "category_Id": "W1-waste-bends-and-elbows",
+                        "sub_categories": {}
+                    },
+                    "Waste Pipe Branches": {
+                        "category_Id": "W1-waste-branches",
+                        "sub_categories": {}
+                    },
+                    "Waste Tees": {
+                        "category_Id": "W1-waste-tees",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Soil Pipes and Fittings": {
+                "category_Id": "W1-soil-pipe-and-fittings",
+                "sub_categories": {
+                    "Soil Pipes": {
+                        "category_Id": "W1-soil-pipes",
+                        "sub_categories": {}
+                    },
+                    "Soil Pipe Fittings": {
+                        "category_Id": "W1-soil-pipe-fittings",
+                        "sub_categories": {
+                            "Soil Pipe Adaptors": {
+                                "category_Id": "W1-soil-adaptors",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Bosses": {
+                                "category_Id": "W1-soil-bosses",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Brackets and Clips": {
+                                "category_Id": "W1-soil-brackets",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Connectors": {
+                                "category_Id": "W1-soil-connectors",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Couplings": {
+                                "category_Id": "W1-soil-couplings",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Manifolds": {
+                                "category_Id": "W1-soil-manifolds",
+                                "sub_categories": {}
+                            },
+                            "Soil Plugs and Caps": {
+                                "category_Id": "W1-soil-access-caps-plugs",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Reducers": {
+                                "category_Id": "W1-soil-reducers",
+                                "sub_categories": {}
+                            },
+                            "Soil Pipe Sockets": {
+                                "category_Id": "W1-sockets",
+                                "sub_categories": {}
+                            },
+                            "Soil Other Fittings": {
+                                "category_Id": "W1-soil-other-fittings",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Soil Pipe Access": {
+                        "category_Id": "W1-soil-pipe-access",
+                        "sub_categories": {}
+                    },
+                    "Soil Pipe Bends": {
+                        "category_Id": "W1-soil-pipe-bends",
+                        "sub_categories": {}
+                    },
+                    "Soil Pipe Branches": {
+                        "category_Id": "W1-soil-branches",
+                        "sub_categories": {}
+                    },
+                    "Soil Air Admittance Valves": {
+                        "category_Id": "W1-soil-air-admittance-valves",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Wastes and Traps": {
+                "category_Id": "W1-wastes-traps",
+                "sub_categories": {}
+            },
+            "WC Connectors": {
+                "category_Id": "W1-wc-connectors",
+                "sub_categories": {}
+            },
+            "Overflow": {
+                "category_Id": "W1-overflow-pipe-and-fittings",
+                "sub_categories": {
+                    "Overflow Pipes": {
+                        "category_Id": "W1-overflow-pipes",
+                        "sub_categories": {}
+                    },
+                    "Overflow Pipe Fittings": {
+                        "category_Id": "W1-overflow-pipe-fittings",
+                        "sub_categories": {
+                            "Overflow Adaptors": {
+                                "category_Id": "W1-overflow-adaptors",
+                                "sub_categories": {}
+                            },
+                            "Overflow Brackets and Clips": {
+                                "category_Id": "W1-overflow-clips-clamps",
+                                "sub_categories": {}
+                            },
+                            "Overflow Connectors": {
+                                "category_Id": "W1-overflow-connectors",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Overflow Pipe Bends": {
+                        "category_Id": "W1-overflow-bends-elbows",
+                        "sub_categories": {}
+                    },
+                    "Overflow Branches": {
+                        "category_Id": "W1-overflow-branches",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Rainwater Guttering and Fittings": {
+                "category_Id": "W1-rainwater-guttering-fittings",
+                "sub_categories": {
+                    "Rainwater Hoppers": {
+                        "category_Id": "W1-rainwater-hoppers",
+                        "sub_categories": {}
+                    },
+                    "Guttering": {
+                        "category_Id": "W1-guttering2",
+                        "sub_categories": {}
+                    },
+                    "Gutter Brackets, Clips & Fittings": {
+                        "category_Id": "W1-gutter-fittings",
+                        "sub_categories": {
+                            "Gutter Brackets and Clips": {
+                                "category_Id": "W1-gutter-support-brackets",
+                                "sub_categories": {}
+                            },
+                            "Gutter Unions": {
+                                "category_Id": "W1-gutter-union-clips",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Gutter Angles": {
+                        "category_Id": "W1-gutter-angles",
+                        "sub_categories": {}
+                    },
+                    "Gutter Outlets and Nozzles": {
+                        "category_Id": "W1-gutter-outlets-nozzles",
+                        "sub_categories": {}
+                    },
+                    "Gutter Stop Ends": {
+                        "category_Id": "W1-gutter-stop-ends",
+                        "sub_categories": {}
+                    },
+                    "Lead and Flashing": {
+                        "category_Id": "W1-rainwater-protection",
+                        "sub_categories": {
+                            "Lead Flashing": {
+                                "category_Id": "W1-lead-flashing2",
+                                "sub_categories": {}
+                            },
+                            "Lead Slates": {
+                                "category_Id": "W1-lead-slates",
+                                "sub_categories": {}
+                            },
+                            "Roofline Cladding and Wire Products": {
+                                "category_Id": "W1-roofline-cladding-wire-products",
+                                "sub_categories": {}
+                            },
+                            "Flashing Fittings": {
+                                "category_Id": "W1-parts-accessories2",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Guttering Leaf Protection": {
+                        "category_Id": "W1-leaf-protection",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Rainwater Downpipes & Fittings": {
+                "category_Id": "W1-rainwater-downpipe-fittings",
+                "sub_categories": {
+                    "Downpipes": {
+                        "category_Id": "W1-downpipes2",
+                        "sub_categories": {}
+                    },
+                    "Downpipe Fittings": {
+                        "category_Id": "W1-downpipes-fittings",
+                        "sub_categories": {
+                            "Downpipe Adaptors": {
+                                "category_Id": "W1-rainwater-adaptors",
+                                "sub_categories": {}
+                            },
+                            "Downpipe Brackets and Clips": {
+                                "category_Id": "W1-rainwater-brackets",
+                                "sub_categories": {}
+                            },
+                            "Downpipe Connectors": {
+                                "category_Id": "W1-rainwater-connectors",
+                                "sub_categories": {}
+                            },
+                            "Rainwater Downpipe Reducers": {
+                                "category_Id": "W1-rainwater-downpipe-reducer",
+                                "sub_categories": {}
+                            },
+                            "Downpipe Shoes": {
+                                "category_Id": "W1-downpipe-shoes",
+                                "sub_categories": {}
+                            },
+                            "Downpipe Sockets": {
+                                "category_Id": "W1-downpipe-sockets",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Downpipe Access": {
+                        "category_Id": "W1-downpipe-access",
+                        "sub_categories": {}
+                    },
+                    "Downpipe Bends": {
+                        "category_Id": "W1-downpipe-bends",
+                        "sub_categories": {}
+                    },
+                    "Downpipe Branches": {
+                        "category_Id": "W1-downpipe-branches",
+                        "sub_categories": {}
+                    },
+                    "Downpipe Offsets": {
+                        "category_Id": "W1-downpipe-offsets2",
+                        "sub_categories": {}
+                    },
+                    "Water Storage": {
+                        "category_Id": "W1-water-storage",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Drainage Essentials": {
+                "category_Id": "W1-drainage-essentials",
+                "sub_categories": {
+                    "Fire Collars": {
+                        "category_Id": "W1-fire-protection",
+                        "sub_categories": {}
+                    },
+                    "Pipe Sealants, Lubricants & Compounds": {
+                        "category_Id": "W1-sealants-lubricants-compounds",
+                        "sub_categories": {}
+                    },
+                    "Drain Cleaning and Testing": {
+                        "category_Id": "W1-drain-cleaning-testing",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Rainwater, Floor and Roof Drains": {
+                "category_Id": "W1-rainwater-floor-roof-drains",
+                "sub_categories": {
+                    "Roof Outlets": {
+                        "category_Id": "W1-roof-outlets",
+                        "sub_categories": {}
+                    },
+                    "Drain Grates and Bezels": {
+                        "category_Id": "W1-drain-grates-bezels",
+                        "sub_categories": {}
+                    },
+                    "Drain Gullies": {
+                        "category_Id": "W1-drain-gullies",
+                        "sub_categories": {}
+                    },
+                    "Roof Drainage Accessories": {
+                        "category_Id": "W1-roof-drainage-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Below Ground Drainage": {
+                "category_Id": "W1-below-ground-drainage",
+                "sub_categories": {}
+            }
+        }
+    },
+    "Trade Essentials": {
+        "category_Id": "W1-trade-essentials",
+        "sub_categories": {
+            "Hand Tools": {
+                "category_Id": "W1-hand-tools",
+                "sub_categories": {
+                    "Plumbing Tools & Equipment": {
+                        "category_Id": "W1-ht-plumbing-tools",
+                        "sub_categories": {
+                            "Water Pump Pliers": {
+                                "category_Id": "W1-water-pump-pliers",
+                                "sub_categories": {}
+                            },
+                            "Pipe and Tube Cutters": {
+                                "category_Id": "W1-pipe-tube-cutters",
+                                "sub_categories": {}
+                            },
+                            "Pipe and Tube Benders": {
+                                "category_Id": "W1-pipe-tube-benders",
+                                "sub_categories": {}
+                            },
+                            "Wire wool": {
+                                "category_Id": "W1-wire-wool",
+                                "sub_categories": {}
+                            },
+                            "Plumbing Tool Accessories": {
+                                "category_Id": "W1-plumbing-tool-accessories",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Wrenches and Pliers": {
+                        "category_Id": "W1-wrenches-pliers",
+                        "sub_categories": {}
+                    },
+                    "Knives and Blades": {
+                        "category_Id": "W1-knives-blades",
+                        "sub_categories": {}
+                    },
+                    "Ratchets and Spanners": {
+                        "category_Id": "W1-ratchets-spanners",
+                        "sub_categories": {}
+                    },
+                    "Saws": {
+                        "category_Id": "W1-saws",
+                        "sub_categories": {}
+                    },
+                    "Screwdrivers and Keys": {
+                        "category_Id": "W1-hand-tools-screwdrivers-keys",
+                        "sub_categories": {}
+                    },
+                    "Measuring and Levels": {
+                        "category_Id": "W1-measuring-levels",
+                        "sub_categories": {}
+                    },
+                    "Hammers": {
+                        "category_Id": "W1-hammers",
+                        "sub_categories": {}
+                    },
+                    "Hand Tool Parts and Accessories": {
+                        "category_Id": "W1-hand-tool-parts-accessories",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Power Tools": {
+                "category_Id": "W1-power-tools",
+                "sub_categories": {
+                    "Power Drills": {
+                        "category_Id": "W1-power-drills",
+                        "sub_categories": {}
+                    },
+                    "Impact Drivers": {
+                        "category_Id": "W1-impact-drivers",
+                        "sub_categories": {}
+                    },
+                    "Plumbing and Press Tools": {
+                        "category_Id": "W1-plumbing-press-tools",
+                        "sub_categories": {}
+                    },
+                    "Power Tool Packs": {
+                        "category_Id": "W1-power-tool-packs",
+                        "sub_categories": {}
+                    },
+                    "Power Tool Parts and  Accessories": {
+                        "category_Id": "W1-power-tool-parts-accessories2",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Power Tool Accessories": {
+                "category_Id": "W1-power-tool-accessories",
+                "sub_categories": {
+                    "Drill Bits": {
+                        "category_Id": "W1-drill-bits",
+                        "sub_categories": {}
+                    },
+                    "Holesaws": {
+                        "category_Id": "W1-holesaws",
+                        "sub_categories": {}
+                    },
+                    "Diamond Core Drills": {
+                        "category_Id": "W1-diamond-core-drill-bits",
+                        "sub_categories": {}
+                    },
+                    "Blades": {
+                        "category_Id": "W1-blades",
+                        "sub_categories": {}
+                    },
+                    "Grinding and Cutting Wheels": {
+                        "category_Id": "W1-disc-wheels",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Soldering and Brazing Supplies": {
+                "category_Id": "W1-soldering-brazing",
+                "sub_categories": {}
+            },
+            "Pipe Freezing Kits": {
+                "category_Id": "W1-pipe-freezing",
+                "sub_categories": {}
+            },
+            "Test Equipment and Detection": {
+                "category_Id": "W1-test-equipment-analysers-detection",
+                "sub_categories": {
+                    "Carbon Monoxide Detectors": {
+                        "category_Id": "W1-carbon-monoxide-detectors",
+                        "sub_categories": {}
+                    },
+                    "Smoke Detectors": {
+                        "category_Id": "W1-smoke-detectors",
+                        "sub_categories": {}
+                    },
+                    "Flue Gas Analysers": {
+                        "category_Id": "W1-analysers",
+                        "sub_categories": {}
+                    },
+                    "Gas Leak Detectors": {
+                        "category_Id": "W1-leak-detectors",
+                        "sub_categories": {}
+                    },
+                    "Heating System Test Equipment": {
+                        "category_Id": "W1-humidity-temperature-measurement",
+                        "sub_categories": {}
+                    },
+                    "Pressure Testers": {
+                        "category_Id": "W1-pressue-flow-meters",
+                        "sub_categories": {}
+                    },
+                    "Electrical Testing": {
+                        "category_Id": "W1-electrical-testing",
+                        "sub_categories": {}
+                    },
+                    "Thermal Imaging": {
+                        "category_Id": "W1-thermal-imaging",
+                        "sub_categories": {}
+                    },
+                    "Test Equipment Accessories": {
+                        "category_Id": "W1-test-equipment-accessories",
+                        "sub_categories": {}
+                    },
+                    "HVAC Service Equipment": {
+                        "category_Id": "W1-service-equipment",
+                        "sub_categories": {
+                            "Recovery Equipment": {
+                                "category_Id": "W1-recovery-equipment",
+                                "sub_categories": {}
+                            },
+                            "Refrigerant Hoses and Gauges": {
+                                "category_Id": "W1-refrigerant-hoses-gauges",
+                                "sub_categories": {}
+                            },
+                            "Manifolds": {
+                                "category_Id": "W1-se-manifolds",
+                                "sub_categories": {}
+                            },
+                            "Vacuum Pumps": {
+                                "category_Id": "W1-vacuum-pumps",
+                                "sub_categories": {}
+                            },
+                            "Nitrogen Regulators": {
+                                "category_Id": "W1-nitrogen-regulators",
+                                "sub_categories": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Sealants and Adhesives": {
+                "category_Id": "W1-sealants-adhesives",
+                "sub_categories": {
+                    "Sealants": {
+                        "category_Id": "W1-sealants2",
+                        "sub_categories": {}
+                    },
+                    "Lubricants": {
+                        "category_Id": "W1-lubricants2",
+                        "sub_categories": {}
+                    },
+                    "Adhesives": {
+                        "category_Id": "W1-adhesives2",
+                        "sub_categories": {}
+                    },
+                    "Foam": {
+                        "category_Id": "W1-foam",
+                        "sub_categories": {}
+                    },
+                    "Tape": {
+                        "category_Id": "W1-tape",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Fixings and Fasteners": {
+                "category_Id": "W1-fasteners-and-fixings",
+                "sub_categories": {
+                    "Screws": {
+                        "category_Id": "W1-screws",
+                        "sub_categories": {
+                            "Wood screws": {
+                                "category_Id": "W1-wood-screws",
+                                "sub_categories": {}
+                            },
+                            "Self Tapping Drilling Screws": {
+                                "category_Id": "W1-self-tapping-drilling-screws",
+                                "sub_categories": {}
+                            },
+                            "Hex Screws": {
+                                "category_Id": "W1-hex-screws",
+                                "sub_categories": {}
+                            },
+                            "Screw Caps": {
+                                "category_Id": "W1-screw-caps-plugs",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Fixings": {
+                        "category_Id": "W1-fixings",
+                        "sub_categories": {
+                            "Wall Plugs": {
+                                "category_Id": "W1-wall-plugs",
+                                "sub_categories": {}
+                            },
+                            "Cavity Fixings": {
+                                "category_Id": "W1-cavity-fixings",
+                                "sub_categories": {}
+                            },
+                            "Anchors": {
+                                "category_Id": "W1-anchors",
+                                "sub_categories": {}
+                            },
+                            "Fixing Kits": {
+                                "category_Id": "W1-fixing-kits",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Nuts, Bolts and Washers": {
+                        "category_Id": "W1-nuts-bolts-washers",
+                        "sub_categories": {
+                            "Washers": {
+                                "category_Id": "W1-washers",
+                                "sub_categories": {}
+                            },
+                            "Bolts": {
+                                "category_Id": "W1-bolts",
+                                "sub_categories": {}
+                            },
+                            "Assortment Sets": {
+                                "category_Id": "W1-assortment-sets",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Nails": {
+                        "category_Id": "W1-nails",
+                        "sub_categories": {
+                            "Wire Nails": {
+                                "category_Id": "W1-wire-nails",
+                                "sub_categories": {}
+                            }
+                        }
+                    },
+                    "Clips & Clamps": {
+                        "category_Id": "W1-clips-clamps",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Drainage Essentials": {
+                "category_Id": "W1-drainage-essentials",
+                "sub_categories": {
+                    "Fire Collars": {
+                        "category_Id": "W1-fire-protection",
+                        "sub_categories": {}
+                    },
+                    "Pipe Sealants, Lubricants & Compounds": {
+                        "category_Id": "W1-sealants-lubricants-compounds",
+                        "sub_categories": {}
+                    },
+                    "Drain Cleaning and Testing": {
+                        "category_Id": "W1-drain-cleaning-testing",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Electrical Essentials": {
+                "category_Id": "W1-electrical-essentials",
+                "sub_categories": {
+                    "Cables": {
+                        "category_Id": "W1-cables",
+                        "sub_categories": {}
+                    },
+                    "Cable Management": {
+                        "category_Id": "W1-cable-management",
+                        "sub_categories": {}
+                    },
+                    "Cable Accessories": {
+                        "category_Id": "W1-cable-accessories",
+                        "sub_categories": {}
+                    },
+                    "Switches": {
+                        "category_Id": "W1-switches",
+                        "sub_categories": {}
+                    },
+                    "Termination": {
+                        "category_Id": "W1-termination",
+                        "sub_categories": {}
+                    },
+                    "Circuit Protection and Control": {
+                        "category_Id": "W1-circuit-protection-industrial-control",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "PPE and Workwear": {
+                "category_Id": "W1-ppe-safety-workwear",
+                "sub_categories": {
+                    "Safety and Protection": {
+                        "category_Id": "W1-safety-protection",
+                        "sub_categories": {}
+                    },
+                    "Gloves": {
+                        "category_Id": "W1-gloves",
+                        "sub_categories": {}
+                    },
+                    "Safety Boots": {
+                        "category_Id": "W1-safety-boots",
+                        "sub_categories": {}
+                    },
+                    "Shorts": {
+                        "category_Id": "W1-shorts",
+                        "sub_categories": {}
+                    },
+                    "Trousers": {
+                        "category_Id": "W1-trousers",
+                        "sub_categories": {}
+                    },
+                    "Coveralls and Overshoes": {
+                        "category_Id": "W1-coveralls",
+                        "sub_categories": {}
+                    },
+                    "Jackets": {
+                        "category_Id": "W1-jackets",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Health and Safety Signage": {
+                "category_Id": "W1-health-safety-signage",
+                "sub_categories": {
+                    "Signs and Labels": {
+                        "category_Id": "W1-signs-labels",
+                        "sub_categories": {}
+                    },
+                    "Tags": {
+                        "category_Id": "W1-tags",
+                        "sub_categories": {}
+                    },
+                    "Reports and Certificates": {
+                        "category_Id": "W1-reports-cerificates",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Building Supplies": {
+                "category_Id": "W1-building-supplies",
+                "sub_categories": {
+                    "Access Panels": {
+                        "category_Id": "W1-access-panels",
+                        "sub_categories": {}
+                    },
+                    "Cements": {
+                        "category_Id": "W1-cements",
+                        "sub_categories": {}
+                    },
+                    "Plasterboard and Plastering": {
+                        "category_Id": "W1-plasterboard-plastering",
+                        "sub_categories": {}
+                    },
+                    "Sand and Aggregates": {
+                        "category_Id": "W1-sand",
+                        "sub_categories": {}
+                    },
+                    "Floor and Wall Tiles": {
+                        "category_Id": "W1-floor-wall-tiles",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Van and Site Essentials": {
+                "category_Id": "W1-van-site-essentials",
+                "sub_categories": {
+                    "Van Essentials": {
+                        "category_Id": "W1-van-site",
+                        "sub_categories": {}
+                    },
+                    "Cleaning Supplies": {
+                        "category_Id": "W1-cleaning-supplies",
+                        "sub_categories": {}
+                    },
+                    "Tool and Equipment Storage": {
+                        "category_Id": "W1-tool-equipment-storage",
+                        "sub_categories": {}
+                    },
+                    "Lighting and Torches": {
+                        "category_Id": "W1-lighting-torches",
+                        "sub_categories": {}
+                    },
+                    "Batteries": {
+                        "category_Id": "W1-batteries",
+                        "sub_categories": {}
+                    },
+                    "Decorating Essentials": {
+                        "category_Id": "W1-decorating-essentials",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Ironmongery": {
+                "category_Id": "W1-ironmongery",
+                "sub_categories": {
+                    "Locks": {
+                        "category_Id": "W1-locks",
+                        "sub_categories": {}
+                    },
+                    "Architectural Hardware": {
+                        "category_Id": "W1-architectural-hardware",
+                        "sub_categories": {}
+                    }
+                }
+            },
+            "Winter Essentials": {
+                "category_Id": "W1-winter-essentials",
+                "sub_categories": {}
+            }
+        }
+    },
+    "School's Out": {
+        "category_Id": "W1-schools-out",
+        "sub_categories": {
+            "Pipe, Valves & Fittings | Maintenance Projects": {
+                "category_Id": "W1-schoolsout-pipe-valves-fittings",
+                "sub_categories": {}
+            },
+            "Drainage | Maintenance Projects": {
+                "category_Id": "W1-schoolsout-drainage",
+                "sub_categories": {}
+            },
+            "Plant Room | Maintenance Projects": {
+                "category_Id": "W1-schoolsout-plant-room",
+                "sub_categories": {}
+            },
+            "Tools & Materials | Maintenance Projects": {
+                "category_Id": "W1-schoolsout-tools-materials",
+                "sub_categories": {}
+            }
+        }
+    }
+}
